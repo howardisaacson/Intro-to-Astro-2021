@@ -1,5 +1,6 @@
 # Intro-to-Astro-2019
 An introduction to astronomy research for aspiring students/researchers/enthusiasts
+
 (Formerly An Introduction to Astronomy Research)
 
 ## Welcome
