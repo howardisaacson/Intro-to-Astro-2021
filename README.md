@@ -1,7 +1,7 @@
 # Intro-to-Astro-2019
 An introduction to astronomy research for aspiring students/researchers/enthusiasts
 
-(Formerly An Introduction to Astronomy Research)
+[(Formerly: Introduction-to-Astronomy-Research)](https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018)
 
 ## Welcome
  Welcome to the essential collection of information that you need to begin your journey into Research Astronomy. The following tutorials, projects and tips are designed to for early college students, advanced high school students, and students with nontraditional career paths to gain the skills they need in order to gain entry into a more formal research project. With exposure and eventual mastering of the skills contained in this repository, students will be better prepared to enter a formal research project either during the semester or over the summer.
