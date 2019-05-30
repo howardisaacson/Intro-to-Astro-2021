@@ -4,8 +4,11 @@ Astronomers conduct much of their reading online, but a good collection of books
 * Astronomy
 
   * Exoplanet Atmospheres (Seager)		
+    * https://seagerexoplanets.mit.edu/books.htm
   * Exoplanets book.
+    * https://seagerexoplanets.mit.edu/books.htm
   * Protostars and Planets
+    * https://uapress.arizona.edu/book/protostars-and-planets-v
   * Small Exoplanets Occurrence and Envelope Structure(concise Review)
     * https://arxiv.org/abs/1404.2960
   * Exoplanet Atmospheres Review:
@@ -21,15 +24,17 @@ Astronomers conduct much of their reading online, but a good collection of books
 
 * Statistics
 
-  * Bevington
+  * Bevington (link below is to free pdf)
+    * http://hosting.astro.cornell.edu/academics/courses/astro3310/Books/Bevington_opt.pdf
   * Baysian Statistics in Astronomy
     * https://ui.adsabs.harvard.edu/#abs/2017ARA&A..55..213S/abstract
 
 * Data Analysis and Tools
 
   * Python analysis book.
+    * https://www.oreilly.com/library/view/python-for-data/9781491957653/
 
-* Examples of undergrad research:
+* Examples of undergraduate research papers:
   * "A Search for Planets around Barnard's star" UC Berkeley undergrad, Jiuen Choi
     * https://ui.adsabs.harvard.edu/#abs/2012AAS...21924504C/abstract
   * Systemic Radial Velocities for ~2000 Planet Search Stars, UC Berkeley undergrad: Carly Chubak
