@@ -14,7 +14,7 @@ sustained disruption of talks, events or communications
 incitement to violence, suicide, or self-harm
 continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 publication of private communication without consent
-Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Carpentry interactions should be professional regardless of location: harassment is prohibited whether it occurs on- or offline, and the same standards apply to both.
+Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Intro2Astro interactions should be professional regardless of location: harassment is prohibited whether it occurs on or offline, and the same standards apply to both.
 
 Thank you for helping make this a welcoming, friendly community for all.
 
