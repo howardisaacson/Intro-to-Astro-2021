@@ -31,7 +31,7 @@ Contact Details to be sent out before meeting.
 
 ### Writing Prompt
 
-Please spend 10-15 minutes of your own time assessing your progress by writing in your online notebooks. Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
+Please spend 5-7 minutes assessing your progress by writing in your online notebooks. Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
 
 ## Assignments for this Week:
 
