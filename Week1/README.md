@@ -1,6 +1,6 @@
 **First Meeting. 11 June 2019**
 
-**5:30pm PDT. Connection Details will send via email.**
+**5:30pm PDT. Connection Details will be sent via email.**
 
 ## Introduction of Mentors and Students
 
