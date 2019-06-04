@@ -64,7 +64,19 @@ Bonus Round Astropy tutorial:
 http://astropy-tutorials.readthedocs.io/en/latest/rst-tutorials/quantities.html
 No need to worrry about plotting yet. We will cover that next week.
 
-### Scipy:
+### Matplotlib
+https://matplotlib.org/users/pyplot_tutorial.html
+
+Matplotlib is used to visualize datasets in an interactive way. 
+In order to test if you have matplotlib setup correctly, try the following:
+```
+import matplotlib.pyplot as plt
+plt.plot([1,2,3,4])
+plt.ylabel('some numbers')
+plt.show()
+```
+
+### Scipy (optional):
 https://scipy.org
 
 Scipy is an incredibly powerful module for conducting high level scientific computing. Because we are 
@@ -72,7 +84,9 @@ focusing on the basics of scientific computing in this class, only a single basi
 For those of you who desire more depth, please explore the full tutorials page linked from the scipy homepage.
 
 Tutorial for this week:  
-https://docs.scipy.org/doc/scipy/reference/tutorial/basic.html  
+https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html
+   This tutorial covers a very common tool used in astronomy, interpolation. 
+   For a full list of scipy tutorials (click here)[https://docs.scipy.org/doc/scipy/reference/tutorial/index.html]
 
 
 ### Paper of the week:
