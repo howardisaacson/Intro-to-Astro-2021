@@ -1,10 +1,10 @@
-**First Meeting. 11 June 2018**
+**First Meeting. 11 June 2019**
 
-**5:30pm PDT. Google Hangout. Connection Details will send via email.**
+**5:30pm PDT. Connection Details will send via email.**
 
 ## Introduction of Mentors and Students
 
-## Screen share of github.com, overleaf.com, and kaggle.com.
+## Screen share of Google Drive, github.com, overleaf.com, and kaggle.com.
 
 ## Assignments for Week 1.
 
@@ -24,14 +24,6 @@ Right now, follow this link to the setup page. You will need to do this on your 
 Link to the assigned tutorial:
 http://swcarpentry.github.io/shell-novice/
 
-### Complete the Data Carpentry workshop on Git and Version Control
-In modern astronomy, we have learned from the computer science community that we should back up our code. OFTEN.
-Git and the most commonly used web-based git repository github.com are used by thousands of collaborations to
-store their code and collaborate in open source projects. Git can initially be overwhelming, but with practice
-it will become one of your mostly commonly used tools in astronomy.
-
-http://swcarpentry.github.io/git-novice/
-
 
 ### Complete the Python tutorial on the Software Carpentry website:
 
@@ -44,6 +36,17 @@ on your computer. We prefer that you run the commands on your own computer but t
 get started.
 
 https://www.learnpython.org
+
+
+### Complete the Data Carpentry workshop on Git and Version Control
+In modern astronomy, we have learned from the computer science community that we should back up our code. OFTEN.
+Git and the most commonly used web-based git repository github.com are used by thousands of collaborations to
+store their code and collaborate in open source projects. Git can initially be overwhelming, but with practice
+it will become one of your mostly commonly used tools in astronomy.
+
+http://swcarpentry.github.io/git-novice/ (optional)
+
+
 
 ### Bonus Round ( Intended for everyone. see how far you can get)
 Command line Ninjas begin their training with the most simple commands they use everyday and eventually obtain 
