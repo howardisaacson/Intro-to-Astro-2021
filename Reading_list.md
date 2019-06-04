@@ -36,6 +36,8 @@ Astronomers conduct much of their reading online, but a good collection of books
 
   * Python analysis book.
     * https://www.oreilly.com/library/view/python-for-data/9781491957653/
+  * Fitting data to a line (suprisingly advanced)
+    * https://arxiv.org/pdf/1008.4686.pdf
 
 * Examples of undergraduate research papers:
   * "A Search for Planets around Barnard's star" UC Berkeley undergrad, Jiuen Choi
