@@ -1,5 +1,5 @@
-## Meeting Time: 5:30pm Tuesday June 18th 2018. 
-Google Hangout. (Contact Details to be sent out before meeting)
+## Meeting Time: 5:00pm Tuesday June 18th 2019. 
+Contact Details to be sent out before meeting.
 
 ## Agenda: (Because a meeting without an agenda is no meeting at all).
 
@@ -11,13 +11,13 @@ Google Hangout. (Contact Details to be sent out before meeting)
    - We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
    - Make sure you familiarize yourself with the Piazza platform this week.
 
-1) Review/Checkin from last week:
+1) Review/Checkin from last week (google form/poll):
    - How did the tutorials go?
    - What should the instructors do differently this week?
 
 2) Short Tutorial on IPython, Jupyter, and git. Instructor screenshares, and:
-   - Git clones this repository.
-   - Shows how to open a Jupyter notebook in this repository from the command line.
+   - Use git to download this repository.
+   - Show how to open a Jupyter notebook in this repository from the command line.
    - Opens iPython, and executes a few commands. 
    - Gives their 2 cents on when to use iPython, when to use Jupyter, and when to write a script.
    - Explains the purpose of Scipy and Astropy, and (if time) executes a few commands in each package.
