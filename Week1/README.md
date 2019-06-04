@@ -18,6 +18,10 @@
 The Unix shell is the basis for scientific computing. By mastering shell commands you will save 
 yourself hours of time in the future. What seems like a small investment will pay dividends again and again.
 
+Right now, follow this link to the setup page. You will need to do this on your own, either with the class or offline
+[Link to setup](http://swcarpentry.github.io/shell-novice/setup.html)
+
+Link to the assigned tutorial:
 http://swcarpentry.github.io/shell-novice/
 
 ### Complete the Data Carpentry workshop on Git and Version Control
