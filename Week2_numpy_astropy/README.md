@@ -86,7 +86,7 @@ For those of you who desire more depth, please explore the full tutorials page l
 Tutorial for this week:  
 https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html
    This tutorial covers a very common tool used in astronomy, interpolation. 
-   For a full list of scipy tutorials (click here)[https://docs.scipy.org/doc/scipy/reference/tutorial/index.html]
+   For a full list of scipy tutorials [click here](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 
 
 ### Paper of the week:
