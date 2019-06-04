@@ -28,11 +28,16 @@ Astronomers conduct much of their reading online, but a good collection of books
     * http://hosting.astro.cornell.edu/academics/courses/astro3310/Books/Bevington_opt.pdf
   * Baysian Statistics in Astronomy
     * https://ui.adsabs.harvard.edu/#abs/2017ARA&A..55..213S/abstract
+  * Planet occurrance (Advanced):
+    * https://ui.adsabs.harvard.edu/abs/2018haex.bookE.195W/abstract
+
 
 * Data Analysis and Tools
 
   * Python analysis book.
     * https://www.oreilly.com/library/view/python-for-data/9781491957653/
+  * Fitting data to a line (suprisingly advanced)
+    * https://arxiv.org/pdf/1008.4686.pdf
 
 * Examples of undergraduate research papers:
   * "A Search for Planets around Barnard's star" UC Berkeley undergrad, Jiuen Choi
