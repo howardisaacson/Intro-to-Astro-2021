@@ -28,6 +28,9 @@ Astronomers conduct much of their reading online, but a good collection of books
     * http://hosting.astro.cornell.edu/academics/courses/astro3310/Books/Bevington_opt.pdf
   * Baysian Statistics in Astronomy
     * https://ui.adsabs.harvard.edu/#abs/2017ARA&A..55..213S/abstract
+  * Planet occurrance (Advanced):
+    * https://ui.adsabs.harvard.edu/abs/2018haex.bookE.195W/abstract
+
 
 * Data Analysis and Tools
 
