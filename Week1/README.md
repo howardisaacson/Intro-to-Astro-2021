@@ -11,6 +11,7 @@
 ### If you have not already:
  * Be sure to obtain all of the appropriate accounts listed on Timeline page. Update "Attendance and Progress" Google Doc.
  * Ensure that you have a working version of Python installed on your computer.
+   * [This link](https://carpentries.github.io/workshop-template/#python) has a section for downloading the anaconda version of Python for Mac, Linux or Windows
  * Finish writing your goals for this program if you did not finish during the session.
 
 ### Complete the Data Carpentry workshop on the Unix command shell
