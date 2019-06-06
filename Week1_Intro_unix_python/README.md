@@ -6,6 +6,10 @@
 
 ## Screen share of Google Drive, github.com, overleaf.com, and kaggle.com.
 
+## Writing Prompt (5-7 mins):
+* What are your goals for this course?
+* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
+
 ## Assignments for Week 1.
 
 ### If you have not already:
