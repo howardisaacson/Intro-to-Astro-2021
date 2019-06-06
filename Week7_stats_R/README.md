@@ -7,7 +7,7 @@ README:
 
     
 ### Tutorials:
-1. Sarah: statistics
+1. Ellie: photon statistics
 2. Alma: R & Rstudio 
 - Before the tutorial, download Anaconda-Navigator for your operating system and install Rstudio using the following in command line:
 > conda install anaconda-navigator
