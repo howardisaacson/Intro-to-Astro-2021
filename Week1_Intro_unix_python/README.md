@@ -4,6 +4,14 @@
 
 ## Introduction of Mentors and Students
 
+## Announcement about Piazza:
+* [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
+* You can join our class page at [this link](piazza.com/caltech/summer2019/iar).
+* If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
+* There is an option to post anonymously. 
+* We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
+* Make sure you familiarize yourself with the Piazza platform this week.
+
 ## Screen share of Google Drive, github.com, overleaf.com, and kaggle.com.
 
 ## Writing Prompt (5-7 mins):
