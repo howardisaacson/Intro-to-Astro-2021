@@ -90,8 +90,7 @@ https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html
 
 
 ### Paper of the week:
-"Occurrence and core-envelope structure of 1–4x Earth-size planets around Sun-like stars"
-https://arxiv.org/pdf/1404.2960.pdf
+"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
 
 Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
 
