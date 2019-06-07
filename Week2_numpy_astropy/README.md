@@ -3,14 +3,6 @@ Contact Details to be sent out before meeting.
 
 ## Agenda: (Because a meeting without an agenda is no meeting at all).
 
-0) Announcement about Piazza:
-   - [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
-   - You should have received an email invitation to join our private Piazza group.
-   - If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
-   - There is an option to post anonymously. 
-   - We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
-   - Make sure you familiarize yourself with the Piazza platform this week.
-
 1) Review/Checkin from last week (google form/poll):
    - How did the tutorials go?
    - What should the instructors do differently this week?
