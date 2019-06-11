@@ -7,7 +7,7 @@ Contact Details to be sent out before meeting.
    - How did the tutorials go?
    - What should the instructors do differently this week?
 
-2) Short Tutorial on IPython, Jupyter, and git. Instructor screenshares, and:
+2) Short Tutorial on IPython, Jupyter, and git. Instructor screenshares, and:  (REPLACE WITH PANDAS)
    - Use git to download this repository.
    - Show how to open a Jupyter notebook in this repository from the command line.
    - Opens iPython, and executes a few commands. 
