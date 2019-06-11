@@ -50,13 +50,15 @@ get started.
 
 http://swcarpentry.github.io/python-novice-inflammation/
 
-Alternate link, python resource:
-https://www.learnpython.org
-
+Deliverable:
+   Save each of the plots that you create with the tutorial and save them in your google drive folder.
+   
 ### Paper of the week: Assignment 3) Read this exoplanet review paper:
 
-Exoplanets Review by Lee (2018). (link in Google Drive)
-
+* Exoplanets Review by Lee (2018). (link in Google Drive)
+* Read the paper, and save a list of questions you may have.
+* Read the paper again a few days later, and revisit your list of questions
+* Feel free to discuss and ask questions on Piazza.
 
 ## Writing Prompt (5-7 mins):
 * What are your goals for this course?
