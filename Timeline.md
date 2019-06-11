@@ -30,6 +30,12 @@ Article: Whistling Vivaldi (link in google drive)
 * Jupyter
 * [Jupyter labs](https://github.com/jupyterlab/jupyterlab)
 
+* Matplotlib:
+   * https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
+
+Pandas:
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+
 * How to effectively read a Scientific Paper
 
 * Extras
@@ -37,6 +43,7 @@ Article: Whistling Vivaldi (link in google drive)
     Start planet fitting with fitting a sin wave, move to radvel
     Astropy, pyephem(advanced)
     Plotting: linear vs log space
+    
 ### Paper of the week: 
 "Life Outside the Solar System"  by Su-Shu Huang  (Also in google drive
 https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
@@ -50,11 +57,6 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
       * Make histogram of planet radii
       * Make Orbital period vs Planet Radius plot
       
-Matplotlib:
-https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
-
-Pandas:
-http://pandas.pydata.org/pandas-docs/stable/10min.html
       
 ### Paper of the week:
 
@@ -62,13 +64,12 @@ http://pandas.pydata.org/pandas-docs/stable/10min.html
  * Radvel:
  * Beyond the radvel tutorial, do better to explain what is going on. 
  * Add more comments about basic python usage.
+
 ### Paper of the week:
 Exoplanets Review by Lee (2018). (link in Google Drive)
 
-"Imaging Extrasolar Giant Planets"
-https://arxiv.org/pdf/1605.02731.pdf
 
-## Week 5  Group Leader:   (week of July 9th)
+## Week 5  Group Leader:  Alma  (week of July 9th)
  * Build a website using wix.com (Leader: Alma) 
     * What belongs on an academic website. 
  * make a CV using Overleaf.com (Lead: Ellie?)
@@ -76,7 +77,7 @@ https://arxiv.org/pdf/1605.02731.pdf
 ### Paper of the week:
 TBD
 
-## Week 6 (Group Leader: ) (week of July 16th)
+## Week 6 (Group Leader: Ellie ) (week of July 16th)
 * TESS tutorial 
   * Download TESS data
   * Identify planet Transit period
@@ -112,8 +113,6 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
 
 ### Paper of the week:
-"Life Outside the Solar System"  by Su-Shu Huang
-https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
 
 ## Week 9 ( Group Leader: Sarah) (week of August 6th) 
 * Begin Final Project: Research Proposal
@@ -126,6 +125,8 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
 
 ## Other:
 
+"Imaging Extrasolar Giant Planets"
+https://arxiv.org/pdf/1605.02731.pdf
 
 
 
