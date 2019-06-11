@@ -116,6 +116,7 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
 ## Week 9 ( Group Leader: Sarah) (week of August 6th) 
 * Begin Final Project: Research Proposal
+* Article Databases: ADS, Google Scholar, arXiv.org
 
 ### Paper of the week:
 
