@@ -68,6 +68,16 @@ plt.ylabel('some numbers')
 plt.show()
 ```
 
+### Paper of the week:
+"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
+
+Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
+
+Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
+
+
+
+
 ### Scipy (optional):
 https://scipy.org
 
@@ -79,11 +89,3 @@ Tutorial for this week:
 https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html
    This tutorial covers a very common tool used in astronomy, interpolation. 
    For a full list of scipy tutorials [click here](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
-
-
-### Paper of the week:
-"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
-
-Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
-
-Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
