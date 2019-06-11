@@ -19,10 +19,7 @@
   * Effective Paper Reading
 
 ### Paper of the week:
-The Role of Identity in Astronomy:
-Article: Whistling Vivaldi (link in google drive)
-
-
+Exoplanets Review by Lee (2018). (link in Google Drive)
 
 ## Week 2 (Group Leader: Howard) (week of June 18th)
 * Python
@@ -59,6 +56,9 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
       
       
 ### Paper of the week:
+The Role of Identity in Astronomy:
+Article: Whistling Vivaldi (link in google drive)
+
 
 ## Week 4 Group Leader: Sarah (week of July 2nd)
  * Radvel:
@@ -66,8 +66,7 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
  * Add more comments about basic python usage.
 
 ### Paper of the week:
-Exoplanets Review by Lee (2018). (link in Google Drive)
-
+TBD
 
 ## Week 5  Group Leader:  Alma  (week of July 9th)
  * Build a website using wix.com (Leader: Alma) 
@@ -94,6 +93,7 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
  *  Statistics: median/mean/mode/outlier rejection/errors in quadrature
  *  An Introduction to the programming language R in discussing habitability.
     * Installing R (https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
+
 ### Paper of the week:
 An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
 http://science.sciencemag.org/content/344/6181/277.full (Science Version)
@@ -125,8 +125,11 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
 ## Other:
 
+Papers:
 "Imaging Extrasolar Giant Planets"
 https://arxiv.org/pdf/1605.02731.pdf
 
+Microlensing:
+Seager (in google drive).
 
 
