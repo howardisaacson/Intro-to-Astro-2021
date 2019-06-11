@@ -37,7 +37,7 @@ Link to the assigned tutorial:
 http://swcarpentry.github.io/shell-novice/
 
 Deliverable:
-  In your individual folder, record all of the responses to the "Solution" parts of the tutorial. (create folders now)
+  In your individual folder, list all of the unix commands that you learned, with a brief description of each.
 
 
 ### Assignment 2) Complete the Python tutorial on the Software Carpentry website:
