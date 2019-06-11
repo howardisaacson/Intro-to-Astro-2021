@@ -1,7 +1,7 @@
 ## Meeting Time: 5:00pm Tuesday June 18th 2019. 
 Contact Details to be sent out before meeting.
 
-## Agenda: (Because a meeting without an agenda is no meeting at all).
+#### Agenda: (Because a meeting without an agenda is no meeting at all).
 
 1) Review/Checkin from last week (google form/poll):
    - How did the tutorials go?
