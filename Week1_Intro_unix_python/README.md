@@ -39,24 +39,25 @@ http://swcarpentry.github.io/shell-novice/
 
 ### Assignment 2) Complete the Python tutorial on the Software Carpentry website:
 
-http://swcarpentry.github.io/python-novice-inflammation/
-
 If you are not yet familiar with the basics of Python, begin on the following website, and begin your
 journey in the amazing, scary, and powerful world of python. This website allows you learn the basics
 of python from a web-based version of python, so you can begin this even before you have python installed
 on your computer. We prefer that you run the commands on your own computer but this is a very good way to
 get started.
 
+http://swcarpentry.github.io/python-novice-inflammation/
+
+Alternate link, python resource:
 https://www.learnpython.org
 
 
-### Optional Assignment) Complete the Data Carpentry workshop on Git and Version Control
-In modern astronomy, we have learned from the computer science community that we should back up our code. OFTEN.
-Git and the most commonly used web-based git repository github.com are used by thousands of collaborations to
-store their code and collaborate in open source projects. Git can initially be overwhelming, but with practice
-it will become one of your mostly commonly used tools in astronomy.
+## Writing Prompt (5-7 mins):
+* What are your goals for this course?
+* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
 
-http://swcarpentry.github.io/git-novice/ (optional)
+## Assignment of students to mentors
+* On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
+
 
 
 
@@ -67,9 +68,10 @@ keep track of you progress so that you can report back.
 
 https://cmdchallenge.com
 
-## Writing Prompt (5-7 mins):
-* What are your goals for this course?
-* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
+### Optional Assignment) Complete the Data Carpentry workshop on Git and Version Control
+In modern astronomy, we have learned from the computer science community that we should back up our code. OFTEN.
+Git and the most commonly used web-based git repository github.com are used by thousands of collaborations to
+store their code and collaborate in open source projects. Git can initially be overwhelming, but with practice
+it will become one of your mostly commonly used tools in astronomy.
 
-## Assignment of students to mentors
-* On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
+http://swcarpentry.github.io/git-novice/ (optional)
