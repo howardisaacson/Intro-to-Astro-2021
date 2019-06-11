@@ -1,8 +1,13 @@
 **First Meeting. 11 June 2019**
 
-**5:30pm PDT. Connection Details will be sent via email.**
+**5:00pm PDT. Connection Details will be sent via email.**
 
-## Introduction of Mentors and Students
+## Agenda:
+* Introductions
+* Motivation
+* Overview of the course (discuss Github)
+* Attendance (share link to Google Drive folder)
+* Overleaf.com, and kaggle.com will be discussed in later weeks.
 
 ## Announcement about Piazza:
 * [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
@@ -12,21 +17,16 @@
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
 * Make sure you familiarize yourself with the Piazza platform this week.
 
-## Screen share of Google Drive, github.com, overleaf.com, and kaggle.com.
 
-## Writing Prompt (5-7 mins):
-* What are your goals for this course?
-* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
-
-## Assignments for Week 1.
+## Assignments for Week 1
 
 ### If you have not already:
- * Be sure to obtain all of the appropriate accounts listed on Timeline page. Update "Attendance and Progress" Google Doc.
+ * Be sure to obtain all of the appropriate accounts listed on Timeline page. Update "Attendance" Google Doc.
  * Ensure that you have a working version of Python installed on your computer.
    * [This link](https://carpentries.github.io/workshop-template/#python) has a section for downloading the anaconda version of Python for Mac, Linux or Windows
  * Finish writing your goals for this program if you did not finish during the session.
 
-### Complete the Data Carpentry workshop on the Unix command shell
+### Assignment #1) Complete the Data Carpentry workshop on the Unix command shell
 The Unix shell is the basis for scientific computing. By mastering shell commands you will save 
 yourself hours of time in the future. What seems like a small investment will pay dividends again and again.
 
@@ -37,7 +37,7 @@ Link to the assigned tutorial:
 http://swcarpentry.github.io/shell-novice/
 
 
-### Complete the Python tutorial on the Software Carpentry website:
+### Assignment 2) Complete the Python tutorial on the Software Carpentry website:
 
 http://swcarpentry.github.io/python-novice-inflammation/
 
@@ -50,7 +50,7 @@ get started.
 https://www.learnpython.org
 
 
-### Complete the Data Carpentry workshop on Git and Version Control
+### Optional Assignment) Complete the Data Carpentry workshop on Git and Version Control
 In modern astronomy, we have learned from the computer science community that we should back up our code. OFTEN.
 Git and the most commonly used web-based git repository github.com are used by thousands of collaborations to
 store their code and collaborate in open source projects. Git can initially be overwhelming, but with practice
@@ -66,3 +66,10 @@ more and more skills. Follow the link below and see how far you get in the comma
 keep track of you progress so that you can report back. 
 
 https://cmdchallenge.com
+
+## Writing Prompt (5-7 mins):
+* What are your goals for this course?
+* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
+
+## Assignment of students to mentors
+* On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
