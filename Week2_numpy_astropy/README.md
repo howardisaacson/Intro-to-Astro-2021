@@ -15,7 +15,7 @@ Contact Details to be sent out before meeting.
    - Explains the purpose of Scipy and Astropy, and (if time) executes a few commands in each package.
 
 3) How to read a scientific paper
-   - See [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md).
+   - See [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Intro-to-Astro-2019/blob/master/Week2_numpy_astropy/how-to_read_science_papers.md).
    - Instructor goes through the abstract, introduction, and figures of [this paper](https://arxiv.org/pdf/1509.07514.pdf) with students, explaining in detail their method for reading scientific papers. 
 
 4) Writing prompt
