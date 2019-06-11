@@ -58,7 +58,7 @@ Deliverable:
 * Exoplanets Review by Lee (2018). (link in Google Drive)
 * Read the paper, and save a list of questions you may have.
 * Read the paper again a few days later, and revisit your list of questions
-* Feel free to discuss and ask questions on Piazza.
+* Post at least one question on Piazza, and respond to at least one of your classmates' questions.
 
 ## Writing Prompt (5-7 mins):
 * What are your goals for this course?
