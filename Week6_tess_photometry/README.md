@@ -14,8 +14,7 @@ In your online notebooks, please spend 10 minutes responding to the following pr
     2. Write down what you remember from previous weeks about Kepler, transits, and photometry.
     
 ### Tutorials:
-1. Ellie: Tutorial on pandas
-2. Ellie: Tutorial on downloading and plotting TESS 2-minute lightcurves
+1. Ellie: Tutorial on downloading and plotting TESS 2-minute lightcurves
 
 ### Paper of the Week:
   
