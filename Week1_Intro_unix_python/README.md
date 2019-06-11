@@ -17,6 +17,13 @@
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
 * Make sure you familiarize yourself with the Piazza platform this week.
 
+## Writing Prompt (5-7 mins):
+* What are your goals for this course?
+* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
+
+## Assignment of students to mentors
+* On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
+
 
 ## Assignments for Week 1
 
@@ -59,14 +66,6 @@ Deliverable:
 * Read the paper, and save a list of questions you may have.
 * Read the paper again a few days later, and revisit your list of questions
 * Post at least one question on Piazza, and respond to at least one of your classmates' questions.
-
-## Writing Prompt (5-7 mins):
-* What are your goals for this course?
-* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
-
-## Assignment of students to mentors
-* On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
-
 
 
 
