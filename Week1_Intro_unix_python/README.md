@@ -36,6 +36,9 @@ Right now, follow this link to the setup page. You will need to do this on your 
 Link to the assigned tutorial:
 http://swcarpentry.github.io/shell-novice/
 
+Deliverable:
+  In your individual folder, record all of the responses to the "Solution" parts of the tutorial. (create folders now)
+
 
 ### Assignment 2) Complete the Python tutorial on the Software Carpentry website:
 
