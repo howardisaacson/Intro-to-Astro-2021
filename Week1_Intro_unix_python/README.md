@@ -26,7 +26,7 @@
    * [This link](https://carpentries.github.io/workshop-template/#python) has a section for downloading the anaconda version of Python for Mac, Linux or Windows
  * Finish writing your goals for this program if you did not finish during the session.
 
-### Assignment #1) Complete the Data Carpentry workshop on the Unix command shell
+### Assignment 1) Complete the Data Carpentry workshop on the Unix command shell
 The Unix shell is the basis for scientific computing. By mastering shell commands you will save 
 yourself hours of time in the future. What seems like a small investment will pay dividends again and again.
 
@@ -49,6 +49,10 @@ http://swcarpentry.github.io/python-novice-inflammation/
 
 Alternate link, python resource:
 https://www.learnpython.org
+
+### Paper of the week: Assignment 3) Read this exoplanet review paper:
+
+Exoplanets Review by Lee (2018). (link in Google Drive)
 
 
 ## Writing Prompt (5-7 mins):
