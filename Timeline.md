@@ -21,24 +21,24 @@
 ### Paper of the week:
 Exoplanets Review by Lee (2018). (link in Google Drive)
 
-## Week 2 (Group Leader: Howard) (week of June 18th)
+## Week 2 (Group Leader: Howard, Ellie & Ryan) (week of June 18th)
 * Python
 * Ipython
 * Jupyter
 * [Jupyter labs](https://github.com/jupyterlab/jupyterlab)
 
+* Pandas: (Leader: Ellie)
+   * http://pandas.pydata.org/pandas-docs/stable/10min.html
+
 * Matplotlib:
    * https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
-
-Pandas:
-http://pandas.pydata.org/pandas-docs/stable/10min.html
 
 * How to effectively read a Scientific Paper
 
 * Extras
     Numpy, Pandas, Gspread, reading in files, plotting (data discovery, bokeh), radvel,.
     Start planet fitting with fitting a sin wave, move to radvel
-    Astropy, pyephem(advanced)
+    Pandas: slicing datasets, SQL queries in python
     Plotting: linear vs log space
     
 ### Paper of the week: 
@@ -71,13 +71,13 @@ TBD
 ## Week 5  Group Leader:  Alma  (week of July 9th)
  * Build a website using wix.com (Leader: Alma) 
     * What belongs on an academic website. 
- * make a CV using Overleaf.com (Lead: Ellie?)
+ * make a CV using Overleaf.com 
  
 ### Paper of the week:
 TBD
 
-## Week 6 (Group Leader: Ellie ) (week of July 16th)
-* TESS tutorial 
+## Week 6 Group Leader: Ellie (week of July 16th)
+* TESS tutorial (Leader: Ellie)
   * Download TESS data
   * Identify planet Transit period
 
@@ -89,8 +89,9 @@ An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014
 http://science.sciencemag.org/content/344/6181/277.full (Science Version)
 https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
-## Week 7 ( Group Leader: Sarah/Alma) (week of July 23rd)
- *  Statistics: median/mean/mode/outlier rejection/errors in quadrature
+## Week 7 Group Leader: Ellie & Alma (week of July 23rd)
+ *  Statistics: median/mean/mode leading into outlier rejection and uncertainty (Leader: Ellie)
+ *  Photon Statistics: Detector noise and how to measure the strength of your detection
  *  An Introduction to the programming language R in discussing habitability.
     * Installing R (https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
 
