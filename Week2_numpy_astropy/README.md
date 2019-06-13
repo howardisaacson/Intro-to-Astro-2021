@@ -10,12 +10,12 @@ Instructors: Ellie and Ryan
    - What should the instructors do differently this week?
 
 2) Short Tutorial on pandas (python data spreadsheets). Instructor screenshares, and: 
-   - Use git to download this repository.
-   - Show how to open a Jupyter notebook in this repository from the command line and adds the bash code snippets to the Zoom comments so students can copy paste.
-   - Opens iPython, and executes the python review and the pandas introduction section.
+   - Use git to download this repository (git folder).
+   - Open Jupyter notebook in this repository from the command line. The instructor will add these commands to the comments in the zoom channel so you can copy paste.
+   - Open `pandas_tutorial.ipynb`. To execute each cell, press shift+enter at the same time. The instructor will step through the first few cells, but you'll get to finish this one on your own.
 
 3) Short Tutorial on matplotlib (python plotting). Instructor screenshares, and: (add matplotlib intro here)
-   - . 
+   -  
 
 4) Writing prompt
    - Please create a Google Drive and share it with the instructors. Please keep all of your writing responses, completed tutorials, notes, etc. in this Drive.
