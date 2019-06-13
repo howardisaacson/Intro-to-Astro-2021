@@ -14,8 +14,8 @@ Instructors: Ellie and Ryan
    - Open Jupyter notebook in this repository from the command line. The instructor will add these commands to the comments in the zoom channel so you can copy paste.
    - Open `pandas_tutorial.ipynb`. To execute each cell, press shift+enter at the same time. The instructor will step through the first few cells, but you'll get to finish this one on your own.
 
-3) Short Tutorial on matplotlib (python plotting). Instructor screenshares, and: (add matplotlib intro here)
-   -  
+3) Short Tutorial on matplotlib (python plotting). Instructor screenshares, and: 
+   -  (add matplotlib intro here)
 
 4) Writing prompt
    - Please create a Google Drive and share it with the instructors. Please keep all of your writing responses, completed tutorials, notes, etc. in this Drive.
@@ -41,7 +41,7 @@ https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 ### Pandas: 
 The `pandas` module is very handy for accessing data in python. You can think of it as a python version of excel filled with columns of data and rows for each item described by those columns. Because `pandas` allows us to create these "spreadsheets" in python, we can do powerful analysis when we combine `pandas` with other modules, like `numpy` and `matplotlib`. Your `pandas` assignment for this week is to complete the tutorial notebook in this section until the challenge section. After you've done this, check out the `pandas` main website where you can find all the documentation describing the use of this python module.
 
-1. Pandas Assignment
+#### 1. Pandas Assignment
 
    Tutorial for this week:
    (link to notebook goes here)
@@ -49,7 +49,7 @@ The `pandas` module is very handy for accessing data in python. You can think of
    Main Website:
    https://pandas.pydata.org
    
-2. Bonus Pandas Assignment
+#### 2. Bonus Pandas Assignment
 
    Challenge Section of this week's tutorial:
    (link to notebook goes here)
