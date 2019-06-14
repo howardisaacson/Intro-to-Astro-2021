@@ -15,7 +15,9 @@ Instructors: Ellie and Ryan
    - Open `pandas_tutorial.ipynb`. To execute each cell, press shift+enter at the same time. The instructor will step through the first few cells, but you'll get to finish this one on your own.
 
 3) Short Tutorial on matplotlib (python plotting). Instructor screenshares, and: 
-   -  (add matplotlib intro here)
+   - Open Jupyter notebook in this respository from the command line as before.
+   - Open `matplotlib_tutorial.ipynb`. Follow along as before as the instructor steps through the first few cells, then finish this one on your own too.
+
 
 4) Writing prompt
    - Please create a Google Drive and share it with the instructors. Please keep all of your writing responses, completed tutorials, notes, etc. in this Drive.
