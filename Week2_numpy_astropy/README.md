@@ -16,8 +16,9 @@ Instructors: Ellie and Ryan
 
 3) Short Tutorial on matplotlib (python plotting). Instructor screenshares, and: 
    - Open Jupyter notebook in this respository from the command line as before.
-   - Open `matplotlib_tutorial.ipynb`. Follow along as before as the instructor steps through the first few cells, then finish this one on your own too.
-
+   - Open `matplotlib_tutorial.ipynb`. Follow along as the instructor
+     walks through basic plotting commands, then create a quick plot using what
+     we learn.
 
 4) Writing prompt
    - Please create a Google Drive and share it with the instructors. Please keep all of your writing responses, completed tutorials, notes, etc. in this Drive.
@@ -68,6 +69,9 @@ import matplotlib.pyplot as plt
 plt.plot([1,2,3,4])
 plt.ylabel('some numbers')
 plt.show()
+
+Then work through the plotting exercise in the notebook
+`matplotlib_assigment.ipynb`
 ```
 
 ### Paper of the week:
