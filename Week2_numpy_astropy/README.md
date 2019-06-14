@@ -69,10 +69,11 @@ import matplotlib.pyplot as plt
 plt.plot([1,2,3,4])
 plt.ylabel('some numbers')
 plt.show()
+```
 
 Then work through the plotting exercise in the notebook
 `matplotlib_assigment.ipynb`
-```
+
 
 ### Paper of the week:
 "Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
