@@ -1,4 +1,4 @@
-## Meeting Time: 5:00pm Tuesday June 18th 2019. 
+## Meeting Time: 5:00pm PDT, Tuesday June 18th 2019. 
 Contact Details to be sent out before meeting.
 
 Instructors: Ellie and Ryan
@@ -27,8 +27,18 @@ Instructors: Ellie and Ryan
 
 Please spend 5-7 minutes assessing your progress by writing in a doc in your Google Drive folder. This will be your lab notebook for the summer! Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
 
+
 ## Assignments for this Week:
 
+### Paper of the week:
+"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
+
+Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
+
+Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
+
+
+## Resources
 ### Numpy:
 
 Main Website:
@@ -75,12 +85,6 @@ Then work through the plotting exercise in the notebook
 `matplotlib_assigment.ipynb`
 
 
-### Paper of the week:
-"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
-
-Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
-
-Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
 
 
 
