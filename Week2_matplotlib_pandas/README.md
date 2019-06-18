@@ -66,6 +66,10 @@ The `pandas` module is very handy for accessing data in python. You can think of
    [Challenge Section of this week's tutorial](pandas_tutorial.ipynb)
    
    Head over to https://stackoverflow.com and see if you can find a question about `pandas` by searching for it in the search bar. What words do you understand in this question that you didn't understand last week? What words are still new? Ask a question about one of the new words on Piazza to find out its definition.
+   
+#### 3. More Pandas Tutorials
+
+   https://bitbucket.org/hrojas/learn-pandas/src/master/
 
 ### Matplotlib
 https://matplotlib.org/users/pyplot_tutorial.html
