@@ -16,6 +16,7 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 ### Tutorials:
 1. Alma: NASA Exoplanet Archive
 2. Sarah: Gaia Database
+3. Sarah: how to read a scientific paper
 
 # Assignments:
 
