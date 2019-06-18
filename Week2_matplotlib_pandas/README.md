@@ -20,12 +20,13 @@ Instructors: Ellie and Ryan
      walks through basic plotting commands, then create a quick plot using what
      we learn.
 
-4) Writing prompt
-   - Please create a Google Drive and share it with the instructors. Please keep all of your writing responses, completed tutorials, notes, etc. in this Drive.
+4) Paper discussion.
 
-### Writing Prompt
+### Discussion Questions:
 
-Please spend 5-7 minutes assessing your progress by writing in a doc in your Google Drive folder. This will be your lab notebook for the summer! Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
+ 1) What are the major exoplanet detection techniques in use today, and what are the strengths and weaknesses of each?
+ 2) What are major open questions in exoplanets today? List as many as you can. 
+ 3) How are current observations planning to address these questions?
 
 
 ## Assignments for this Week:
