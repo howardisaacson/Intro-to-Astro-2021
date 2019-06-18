@@ -25,8 +25,7 @@ Instructors: Ellie and Ryan
 ### Discussion Questions:
 
  1) What are the major exoplanet detection techniques in use today, and what are the strengths and weaknesses of each?
- 2) What are major open questions in exoplanets today? List as many as you can. 
- 3) How are current observations planning to address these questions?
+ 2) What are major open questions in exoplanets today? List as many as you can. How are current observations planning to address these questions?
 
 
 ## Assignments for this Week:
