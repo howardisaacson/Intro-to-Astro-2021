@@ -37,6 +37,7 @@ Take the next two weeks to read and digest this paper. Refer to our [Introductio
 
 Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
 
+### Respond to Discussion Question 2 in "Discussion Questions" above
 
 ## Resources
 ### Numpy:
