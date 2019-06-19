@@ -72,7 +72,6 @@ The `pandas` module is very handy for accessing data in python. You can think of
    https://bitbucket.org/hrojas/learn-pandas/src/master/
 
 ### V Matplotlib
-https://matplotlib.org/users/pyplot_tutorial.html
 
 Matplotlib is used to visualize datasets in an interactive way. 
 In order to test if you have matplotlib setup correctly, try the following:
@@ -83,8 +82,8 @@ plt.ylabel('some numbers')
 plt.show()
 ```
 
-Then work through the plotting exercise in the notebook
-`matplotlib_assigment.ipynb`
+Work through the make-your-own plot at the bottom of the matplotlib tutorial (`matplotlib_tutorial.ipynb`). Then try the plotting exercise in the notebook
+`matplotlib_assigment.ipynb`, and save your figures to your Google doc!
 
 
 ### VI Scipy (optional):
