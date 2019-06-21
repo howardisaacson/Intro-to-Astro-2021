@@ -2,21 +2,16 @@
 
 ### Howard: Intro
 - Check-in. 
-### Imposter Syndrome 
-- Article [here](https://www.quickanddirtytips.com/health-fitness/medical-conditions/what-is-impostor-syndrome).
-### Writing Exercise: 
-In your online notebooks, please spend 10 minutes responding to the following prompts:
 
-    1. Write down everything you learned from reading this week's scientific paper. Focus on two categories: 
-    - general lessons about effectively reading science papers
-    - things you learned about exoplanet science and astronomy
-    
-    2. What paper-reading tactics worked effectively last week? What will you do differently when reading this week's paper?
+### Writing Exercise: 
+In your online notebooks, please spend 5 minutes responding to the following prompt:
+
+    What tactics do you use when reading scientific papers? What is effective, and what isn't? What would you like to do better?
     
 ### Tutorials:
 1. Alma: NASA Exoplanet Archive
 2. Sarah: Gaia Database
-3. Sarah: how to read a scientific paper
+3. Sarah: How to Read a Scientific Paper
 
 # Assignments:
 
@@ -24,11 +19,6 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 2. Complete Sarah's Gaia Database jupyter notebook.
 
-3. a) Use these python tutorials to help you with Alma's and Sarah's tutorials, but focus on 1. and 2. first.
-       Use 2b and 2c as references for the above tutorials.
+3. Finish reading "Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
 
-4.  (Bonus Round!) 
-   This tutorial has many very useful routines. If you have completed the first two tutorials,
-   try this one next. [week 3 python tutorial](http://swcarpentry.github.io/python-novice-gapminder/) 
-
-5. Post one question you have about Gaia on piazza. If you have no questions, post something you learned during the tutorial.
+Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like! To be explicit, you should post 2-3 questions total about this paper (i.e. you don't have to post more questions this week if you already poster 2 last week).
