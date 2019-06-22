@@ -16,10 +16,8 @@ After 7 minutes, spend 3 minutes answering another student's question (you don't
     
 ### Tutorial:
 1. Alma: Creating a Website
-https://www.wix.com
-
-### Tutorial: 
-2. Isabel: Creating a Curriculum Vitae; aka a CV.
+https://www.wix.com 
+2. Alma: Creating a Curriculum Vitae (CV).
 
 # Assignments:
 1. Look up the personal websites (NOT university faculty page!) of at least five different astronomers. Explore them in detail. Write an entry in your notebook describing what you like and what you don't like. Remember, a website is often times many people's first impression of you, what do you want them to know? Remember to consider content as well as aesthetics. Use this in planning a design for your personal website.
