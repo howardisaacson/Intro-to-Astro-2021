@@ -30,16 +30,16 @@ Instructors: Ellie and Ryan
 
 ## Assignments for this Week:
 
-### Paper of the week:
+### I Paper of the week:
 "Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
 
-Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
+Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Intro-to-Astro-2019/blob/master/Week3_gaia_exoplanet_archive/HowToReadAScientificPaper.md) guide for advice!
 
 Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
 
+### II Respond to Discussion Question 2 in "Discussion Questions" above
 
-## Resources
-### Numpy:
+### III Numpy:
 
 Main Website:
 http://www.numpy.org
@@ -51,7 +51,7 @@ Bonus round: 100 Numpy commands
 https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 (This notebook can be cloned to your local computer)
 
-### Pandas: 
+### IV Pandas: 
 The `pandas` module is very handy for accessing data in python. You can think of it as a python version of excel filled with columns of data and rows for each item described by those columns. Because `pandas` allows us to create these "spreadsheets" in python, we can do powerful analysis when we combine `pandas` with other modules, like `numpy` and `matplotlib`. Your `pandas` assignment for this week is to complete the tutorial notebook in this section until the challenge section. After you've done this, check out the `pandas` main website where you can find all the documentation describing the use of this python module.
 
 #### 1. Pandas Assignment
@@ -71,8 +71,7 @@ The `pandas` module is very handy for accessing data in python. You can think of
 
    https://bitbucket.org/hrojas/learn-pandas/src/master/
 
-### Matplotlib
-https://matplotlib.org/users/pyplot_tutorial.html
+### V Matplotlib
 
 Matplotlib is used to visualize datasets in an interactive way. 
 In order to test if you have matplotlib setup correctly, try the following:
@@ -83,15 +82,11 @@ plt.ylabel('some numbers')
 plt.show()
 ```
 
-Then work through the plotting exercise in the notebook
-`matplotlib_assigment.ipynb`
+Work through the make-your-own plot at the bottom of the matplotlib tutorial (`matplotlib_tutorial.ipynb`). Then try the plotting exercise in the notebook
+`matplotlib_assigment.ipynb`, and save your figures to your Google doc!
 
 
-
-
-
-
-### Scipy (optional):
+### VI Scipy (optional):
 https://scipy.org
 
 Scipy is an incredibly powerful module for conducting high level scientific computing. Because we are 
