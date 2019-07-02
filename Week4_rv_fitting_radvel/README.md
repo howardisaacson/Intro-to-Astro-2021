@@ -1,10 +1,7 @@
 # Agenda:
 
-### Alma: Intro
-- Check-in. 
-
-### Alma: Check-in on Last week's tutorials:
-1. Question session (key will be posted)
+### Sarah: Intro
+- Motivation.
 
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompt:
