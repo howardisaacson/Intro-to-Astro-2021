@@ -1,6 +1,6 @@
 # Agenda:
 
-### Howard: Intro
+### Alma: Intro
 - Check-in. 
 
 ### Alma: Check-in on Last week's tutorials:
