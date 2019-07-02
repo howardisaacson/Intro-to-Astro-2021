@@ -9,29 +9,18 @@
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompt:
 
-    1. Write down everything you know about how exoplanets are detected and characterized.
+    1. Write down everything you know about how exoplanets are detected and characterized. What is confusing or unclear? What questions do you still have?
     
 ### Discussion:
-1. Discussion of [Quintana et al. 2014](https://arxiv.org/pdf/1404.5667.pdf)?
-2. Sarah: Exoplanet Detection and Orbit-fitting.
+1. Sarah: Exoplanet Detection and Orbit-fitting.
 
 ### Paper of the Week:
-An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
+[Whistling Vivaldi](https://drive.google.com/drive/folders/1mNisjq1yZL2pIpoysNbK3xCAfuZrtX-Q). 
 
-*description: This paper does a great job of describing in detail how Kepler planets are found and confirmed. It also provides meaningful contributions to ongoing conversations about astrobiology and exoplanet habitability.*  
- 
-link to the paper:
-
- http://science.sciencemag.org/content/344/6181/277.full (Science Version)
- 
- https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
- 
-For tips and information on presenting this paper, see our week 4/5 [paper tips](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week4/paper_tips.md) (available in this week's github)
-
+Although we would like to think of science as purely logical, it is impossible to separate the science being done from the scientist who is doing it. Next week, we will have a discussion about identity, equity, and inclusion in the context of astronomy research. Please read this excellent summary of stereotype threat to prepare. Astronomy is not equally accessible to everyone. Let's change that!
 
 # Assignments:
 
-1. Upload your plots from the NASA Exoplanet Archive data and Gaia tutorials to your student folder Google Drive
-2. Check your work from last week against the tutorial answer keys (posted in week 3 folder)
-3. Finish reading [Quintana et al. 2014](https://arxiv.org/pdf/1404.5667.pdf) (over the next two weeks)
-4. Complete Ruben's & Sarah's RadVel tutorial.
+1. Check your work from last week against the tutorial answer keys (posted in week 3 folder)
+2. Read Whistling Vivaldi article (see above) about stereotype threat. Be prepared to discuss this reading in-class next week.
+3. Complete Ruben's & Sarah's RadVel tutorial.
