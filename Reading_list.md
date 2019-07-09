@@ -60,3 +60,14 @@ Astronomers conduct much of their reading online, but a good collection of books
     
 * Resources:
    * Exoplanet data analysis in python: https://exoplanet.dfm.io/en/latest/
+   
+Week1: Explanets Review
+week2: "Life Outside the Solar System" by Su-Shu Huang 
+Week3:  Life outside the solar system (Cont)
+Week4: Imposter Syndrome (Vivaldi)
+Week5: An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014) 
+Week6:    Quintana con't
+Week7: Imagine exoplanets (Bowler 2016), only certain sections.
+Week8:    Bowler continued.
+Week9:  No group paper
+Week10: No group paper   
