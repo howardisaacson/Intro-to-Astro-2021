@@ -24,5 +24,5 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 # Assignments:
 
-1. Complete pandas and TESS tutorials
+1. Complete the TESS tutorial. Which TESS planet did you choose to rediscover and why?
 2. Look through this [Dropbox](https://www.dropbox.com/sh/jkslarj06iuvq2e/AAB5PENEy83B5rHihd2x9nEQa?dl=0) full of readings about race, gender, and other identities & the scientific community. Spend an hour (time yourself) reading whatever interests you. Write a two paragraph reflection about what you read.
