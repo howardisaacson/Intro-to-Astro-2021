@@ -28,5 +28,6 @@ https://github.com/ylecoeuche/HIRES_analysis/blob/master/HIRES.ipynb
 ### Writing Exercise
 * List all the techniques you have learned or developed for effectively reading a scientific paper.
 
-### Paper to discuss:
-"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
+### Paper of the Week:
+Continue reading: Imaging Extrasolar Giant Planets (Bowler 2016). Sections 1-2, 5-6 only.
+ * ADS: http://esoads.eso.org/abs/2016PASP..128j2001B
