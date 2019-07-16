@@ -26,7 +26,7 @@ In your online notebooks, please spend 5 minutes responding to the following pro
 
 
 ### Paper of the Week:
-Imaging Extrasolar Giant Planets (Bowler 2016)
+Imaging Extrasolar Giant Planets (Bowler 2016). Sections 1-2, 5-6 only.
  * ADS: http://esoads.eso.org/abs/2016PASP..128j2001B
 
 
