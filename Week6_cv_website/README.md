@@ -8,11 +8,7 @@ README:
 Class discussion on [Quintana et al. 2014](https://arxiv.org/pdf/1404.5667.pdf). See the "Tips for Presenting Quintana et al. (2014)" in the readme for this week.
 
 ### Writing Exercise: 
-In your online notebooks, please spend 7 minutes responding to the following prompt:
-    1. List as many questions as you can (at least 10) about direct imaging (think about the paper you started to read last week). Try for a mix of specific questions and general/big-picture questions. 
-    2. Post your favorite question on Piazza. 
-    
-After 7 minutes, spend 3 minutes answering another student's question (you don't have to be right!)
+What is the purpose of an academic website? What information should go on an academic website?
     
 ### Tutorial:
 1. Alma: Creating a Website
