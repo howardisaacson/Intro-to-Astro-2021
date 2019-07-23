@@ -12,6 +12,9 @@ Instructor reviews how to use NASA ADS and arXiv over screen share.
 
 ### Writing Exercise
 - Start work on an outline of your proposal, and/or start writing any section you want.
+
+# Assignments:
+- See final project assignment in root directory. Complete "week 9" todos.
    
    
    
