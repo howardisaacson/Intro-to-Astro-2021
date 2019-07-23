@@ -17,11 +17,11 @@ README:
 ### Writing Exercise: 
 In your online notebooks, please spend 5 minutes responding to the following prompts:
 
-    1. What did you learn from the tutorial about how TESS finds planets and determines their properties?
+    1. How does TESS find planets and determine their properties?
     
     2. Where were statistics used in the Quintana (2014) paper?
     
-    3. How can we use theory and modeling to learn about known exoplanets?
+    3. How can we use statistics to learn about known exoplanets?
 
 
 ### Paper of the Week:
