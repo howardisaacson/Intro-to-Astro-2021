@@ -7,8 +7,8 @@ README:
 
     
 ### Tutorials:
-1. Ellie: Stats intro from Peter Norvig
-2. Ellie: Photon statistics tutorial
+1. Ellie: [Stats intro from Peter Norvig](https://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
+2. Ellie: [Photon statistics tutorial](photon_stats_tutorial.ipynb)
 3. Alma: R & Rstudio 
 - Before the R tutorial, download Anaconda-Navigator for your operating system and install Rstudio using the following in command line:
 > conda install anaconda-navigator
@@ -33,4 +33,4 @@ Imaging Extrasolar Giant Planets (Bowler 2016). Sections 1-2, 5-6 only.
 
 1. Complete the R tutorial
 2. Complete the [Intro to Statistics Tutorial from Peter Norvig](https://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
-3. Complete the Photon Statistics Tutorial
+3. Complete the [Photon statistics tutorial](photon_stats_tutorial.ipynb)
