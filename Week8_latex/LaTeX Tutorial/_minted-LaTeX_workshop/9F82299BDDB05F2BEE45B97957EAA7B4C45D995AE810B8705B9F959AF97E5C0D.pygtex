@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{k}{\PYGZbs{}usepackage}\PYG{n+nb}{\PYGZob{}}amsmath, amssymb, amsfonts, amsbsy\PYG{n+nb}{\PYGZcb{}}
+	\PYG{k}{\PYGZbs{}bi} Several different ``math\PYGZhy{}mode\PYGZsq{}\PYGZsq{} environments \PYG{k}{\PYGZbs{}ei}
+\end{Verbatim}

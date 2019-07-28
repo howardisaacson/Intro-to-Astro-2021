@@ -1,0 +1,19 @@
+\frametitle{Extra: Text/Comments}
+\bi Words can be \texttt{monospace}, \emph{emphasized}, \textbf{bolded}, \textit{italicized}, and {\color{cyan}colored!} \ei
+	\begin{minted}{latex}
+	\texttt{text}, \textbf{text}, \textit{text}
+	\emph{text}, {\color{color}text}
+	\end{minted}
+	\vspace{-3pt}
+	\bi Change size of font on the fly using one of \ei
+	\begin{minted}{latex}
+	\tiny, \scriptsize, \footnotesize, \small,
+	\normalsize, \large, \Large, \LARGE, \huge, \Huge
+	\end{minted}
+	\vspace{-3pt}
+	\bi The default font is \alert{Computer Modern} (CMU, sans serif in \texttt{beamer})
+	\bi One may change the font throughout the document by adding, for example, \mintinline{latex}{\usepackage{Palatino}} to the Preamble \ei \ei
+	\vspace{-4pt}
+	\bi Make footnotes with the \mintinline{latex}{\footnote{footnote text}} command\footnote{The footnote text shows up like this.} \ei
+	\vspace{-4pt}
+	\bi Comments may be written using the percent sign \% \ei

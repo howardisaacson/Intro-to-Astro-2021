@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+The net force is
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}align*\PYG{n+nb}{\PYGZcb{}}
+F\PYG{n+nb}{\PYGZus{}\PYGZob{}}net\PYG{n+nb}{\PYGZcb{}} \PYG{n+nb}{\PYGZam{}}= \PYG{k}{\PYGZbs{}sum}\PYG{n+nb}{\PYGZus{}}i F\PYG{n+nb}{\PYGZus{}}i \PYG{k}{\PYGZbs{}\PYGZbs{}}
+	\PYG{n+nb}{\PYGZam{}}= F \PYGZhy{} F\PYG{n+nb}{\PYGZus{}}f \PYG{k}{\PYGZbs{}\PYGZbs{}}
+	\PYG{n+nb}{\PYGZam{}}= m a
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}align*\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

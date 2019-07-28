@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{What is \LaTeX ? Why should I use it?}{2}{0}{1}
+\beamer@sectionintoc {2}{How can I get \LaTeX ?}{4}{0}{2}
+\beamer@sectionintoc {3}{Learning \LaTeX \tmspace +\thinmuskip {.1667em} / Getting started}{6}{0}{3}
+\beamer@sectionintoc {4}{Help/Troubleshooting Resources}{8}{0}{4}
+\beamer@sectionintoc {5}{Making a Document}{10}{0}{5}

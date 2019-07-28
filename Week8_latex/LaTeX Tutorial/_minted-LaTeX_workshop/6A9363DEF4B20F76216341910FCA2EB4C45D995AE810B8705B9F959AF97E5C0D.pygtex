@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{k}{\PYGZbs{}section}\PYG{n+nb}{\PYGZob{}}Introduction\PYG{k}{\PYGZbs{}label}\PYG{n+nb}{\PYGZob{}}sec:intro\PYG{n+nb}{\PYGZcb{}\PYGZcb{}}
+	Here is the intro, Section \PYG{k}{\PYGZbs{}ref}\PYG{n+nb}{\PYGZob{}}sec:intro\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}
