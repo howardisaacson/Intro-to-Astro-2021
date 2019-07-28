@@ -14,7 +14,17 @@ Link to today's tutorial:
 
 For further tutorials and examples, see the many fantastic guides at https://www.overleaf.com/learn
 
+Assignment: If you haven't already, write your CV in LaTeX to take it to the next level. Check out
+the many CV templates at https://www.overleaf.com/gallery/tagged/cv. You can also Google around for
+templates others have scattered across the internet.
 
+Additionally, select a template to use for your final project writeup. Some great examples can be
+found here:
+    * https://www.overleaf.com/gallery/tagged/research-proposal
+and also the official AAS journal artical template
+    * https://www.overleaf.com/gallery/tagged/aas
+
+Of course, feel free to modify these and/or create your own!
 
 ### Final Project
 * Go through project assignment in root directory.
