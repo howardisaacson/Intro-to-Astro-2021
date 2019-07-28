@@ -12,7 +12,7 @@
 Link to today's tutorial:
 
 
-For further tutorials and examples, see the many fantastic guides at https://www.overleaf.com/learn
+For further tutorials and examples, see the many fantastic guides at https://www.overleaf.com/learn, and of course the [Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort-letter.pdf) (a copy also lives in this folder).
 
 Assignment: If you haven't already, write your CV in LaTeX to take it to the next level. Check out
 the many CV templates at https://www.overleaf.com/gallery/tagged/cv. You can also Google around for
