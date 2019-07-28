@@ -20,9 +20,12 @@ templates others have scattered across the internet.
 
 Additionally, select a template to use for your final project writeup. Some great examples can be
 found here:
-    * https://www.overleaf.com/gallery/tagged/research-proposal
+
+* https://www.overleaf.com/gallery/tagged/research-proposal
+    
 and also the official AAS journal artical template
-    * https://www.overleaf.com/gallery/tagged/aas
+
+* https://www.overleaf.com/gallery/tagged/aas
 
 Of course, feel free to modify these and/or create your own!
 
