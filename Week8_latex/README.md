@@ -9,8 +9,7 @@
 ### Tutorial
 #### Ryan: LaTeX
 
-Link to today's tutorial:
-
+[Link to today's tutorial](https://github.com/howardisaacson/Intro-to-Astro-2019/blob/master/Week8_latex/LaTeX%20Tutorial/LaTeX_tutorial.pdf)
 
 For further tutorials and examples, see the many fantastic guides at https://www.overleaf.com/learn, and of course the [Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort-letter.pdf) (a copy also lives in this folder).
 
