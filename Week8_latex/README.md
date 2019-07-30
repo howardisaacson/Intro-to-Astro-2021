@@ -32,7 +32,9 @@ Of course, feel free to modify these and/or create your own!
 * Go through project assignment in root directory.
 
 ### Writing Exercise
-* List all the techniques you have learned or developed for effectively reading a scientific paper.
+* What kinds of noise sources do we have in observational detections?
+* What are some ways to account for noise when working with our data?
+* Can we completely eliminate noise? Why or why not?
 
 ### Paper of the Week:
 Continue reading: Imaging Extrasolar Giant Planets (Bowler 2016). Sections 1-2, 5-6 only.
