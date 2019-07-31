@@ -5,7 +5,7 @@ Written by Sarah Blunt
 Many undergraduate research internships do not have dedicated time for students to do literature reviews and come up with their own ideas. This project is an opportunity to do just that. We believe this project will compliment your future research experiences, and help to complete your understanding of the research process. 
 
 ## Assignment:
-Select and read at least 3 scientific papers on a particular topic in astronomy using [SAO/NASA ADS](http://adsabs.harvard.edu/abstract_service.html). At least one of these should be a review paper. You may choose your own topic or choose from the list we’ve compiled below. As you read, come up with an idea for an original research project that could contribute to the field you’ve chosen. Your idea doesn’t have to be doable, but it must by original and advance knowledge in your chosen field.
+Select and read at least 3 scientific papers on a particular topic in astronomy using [SAO/NASA ADS](https://ui.adsabs.harvard.edu/). At least one of these should be a review paper. You may choose your own topic or choose from the list we’ve compiled below. As you read, come up with an idea for an original research project that could contribute to the field you’ve chosen. Your idea doesn’t have to be doable, but it must by original and advance knowledge in your chosen field.
 
 Write a proposal convincing the reader that your idea should be funded based on the results of your reading. You may assume your reader has infinite money, but must decide between your proposal and many others.
 
