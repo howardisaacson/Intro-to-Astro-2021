@@ -1,5 +1,6 @@
 # Agenda
 - ADS Review
+- Discussion of Bowler paper
 - Discussion of Final Reserach Project
 
 ### Tutorial: Using SAO/NASA ADS
