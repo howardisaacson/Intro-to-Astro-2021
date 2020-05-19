@@ -1,6 +1,6 @@
-**First Meeting. 11 June 2019**
+**First Meeting. 8 June 2019**
 
-**5:00pm PDT. Connection Details will be sent via email.**
+**(TBD, 2019: 5:00pm PDT. Connection Details will be sent via email.**
 
 ## Agenda:
 * Introductions
