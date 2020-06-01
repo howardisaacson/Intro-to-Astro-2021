@@ -1,6 +1,6 @@
-**First Meeting. 8 June 2019**
+**First Meeting. 8 June 2020**
 
-**(TBD, 2020: 5:00pm PDT. Connection Details will be sent via email.**
+**(June 8th, 2020: 5:00pm Pacific Daylight Time (UT-7). Connection Details will be sent via email.**
 
 ## Agenda:
 * Introductions
@@ -11,7 +11,7 @@
 
 ## Announcement about Piazza:
 * [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
-* You can join our class page at [this link](piazza.com/caltech/summer2019/iar).
+* You can join our class page at [this link](piazza.com/intro_to_astro/summer2020/astr101).
 * If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
 * There is an option to post anonymously. 
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
@@ -19,11 +19,10 @@
 
 ## Writing Prompt (5-7 mins):
 * What are your goals for this course?
-* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, etc.
+* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, space launches, mars exploration, the rings of saturn, Earth-like planets, etc.
 
 ## Assignment of students to mentors
 * On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
-
 
 ## Assignments for Week 1
 
