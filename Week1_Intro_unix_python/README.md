@@ -11,7 +11,7 @@
 
 ## Announcement about Piazza:
 * [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
-* You can join our class page at [this link](piazza.com/intro_to_astro/summer2020/astr101).
+* You can join our class page at [this link](https://piazza.com/intro_to_astro/summer2020/astr101) and with the access code astr101.
 * If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
 * There is an option to post anonymously. 
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
