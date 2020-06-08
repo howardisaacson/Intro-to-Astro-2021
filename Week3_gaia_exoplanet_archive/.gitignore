@@ -1,0 +1,8 @@
+#########
+# Week 3#
+#########
+.ipynb_checkpoints/*
+.DS_Store
+nasa_exoplanet_archive_tutorial_KEY.ipynb # Ignore solutions for now
+data/confirmed_kepler_transiting.csv # Will download live during tutorial
+data/confirmed_mydata.csv # Ignore solutions for now
