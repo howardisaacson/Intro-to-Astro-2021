@@ -37,11 +37,6 @@ Of course, feel free to modify these and/or create your own!
 ### Final Project
 * Go through project assignment in root directory.
 
-### Writing Exercise
-* What kinds of noise sources do we have in observational detections?
-* What are some ways to account for noise when working with our data?
-* Can we completely eliminate noise? Why or why not?
-
 ### Paper of the Week:
 Transit Lightcurve Signatures of Artificial Objects (Arnold 2005)
  * ADS: https://ui.adsabs.harvard.edu/abs/2005ApJ...627..534A/abstract
