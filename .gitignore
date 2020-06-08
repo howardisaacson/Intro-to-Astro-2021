@@ -1,12 +1,3 @@
-#########
-# Week 3#
-#########
-Week3_gaia_exoplanet_archive/.ipynb_checkpoints/*
-Week3_gaia_exoplanet_archive/.DS_Store
-Week3_gaia_exoplanet_archive/nasa_exoplanet_archive_tutorial_KEY.ipynb # Ignore solutions for now
-Week3_gaia_exoplanet_archive/data/confirmed_kepler_transiting.csv # Will download live during tutorial
-Week3_gaia_exoplanet_archive/data/confirmed_mydata.csv # Ignore solutions for now
-
 # Ignore .ipynb_checkpoints/ directories
 Week4_rv_fitting_radvel/.ipynb_checkpoints/*
 
