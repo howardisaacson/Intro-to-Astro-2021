@@ -19,11 +19,8 @@ https://www.mendeley.com
 Mendeley allows you to download papers and keep them stored in a single, organized library on your own computer. You can also sort papers into cetegories and annotate them (similar to google docs) so you can have notes, definitions, etc. on-hand.
 
 ## Closely Reading science papers:
-During class this week, we discussed this paper, which uses direct imaging to discover and confirm and exoplanet:
 
-https://arxiv.org/pdf/1509.07514.pdf
-
-For your assignment this week, please read the paper of the week (NOT the above paper, although you can read it if you'd like!) thoroughly. Try to observe the following note-taking strategy (or use something similar that works for you):
+For your assignment this week, please read the paper of the week thoroughly. Try to observe the following note-taking strategy (or use something similar that works for you!):
 
 Highlight words you don't know in one color. Look up their definitions and write them down as in-text notes as you read.
 Highlight key ideas in another color.
