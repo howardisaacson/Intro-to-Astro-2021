@@ -21,6 +21,8 @@ Astronomers conduct much of their reading online, but a good collection of books
     * TRAPPIST discovery paper https://www.nature.com/articles/nature21360
     * early kepler discovery paper http://science.sciencemag.org/content/327/5968/977
     * exo-Earth discovery paper https://arxiv.org/abs/1404.5667
+  * Planetary Systems - what they look like and how (often) they occur:
+    * https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082214-122246 
 
 * Statistics
 
