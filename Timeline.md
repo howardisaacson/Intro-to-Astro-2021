@@ -1,10 +1,10 @@
 
 # Timeline for Summer 2020.
 
-## Week 1 (Group Leader: Howard) (week of June 8th)
-* GitHub: Version Control, Cloning, Branching, Forking
+## Week 1. Group Leaders: Howard (Intro), Tim (Python, Isabel) (week of June 8th)
+* GitHub: Version Control, git-clone vs downloading repositories.
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
-* Coding programs: Textwrangler, PyCharm, or Atom.
+* Coding programs: Textwrangler, PyCharm, Atom, or Sublime Text.
 ### Accounts needed:
   * Github.com
   * Google Drive (general gmail account)
@@ -16,16 +16,21 @@
 ### Other topics:
   * How to write a professional email.
   * Make sure everyone has python installed.
-  * Effective Paper Reading
+  * Effective Paper Reading (part 3 of 
 
-### Paper of the week:
-Exoplanets Review by Lee (2018). (link in Google Drive)
-
-## Week 2 (Group Leader: TBD) (week of June 15th)
+### Part II of Week 1.
 * Python
 * Ipython
 * Jupyter
 * [Jupyter labs](https://github.com/jupyterlab/jupyterlab)
+
+### Part II of Week 1.
+  How to read a research paper.
+  
+### Paper of the week:
+Exoplanets Review by Lee (2018). (link in Google Drive)
+
+## Week 2 (Group Leader: Aldo and Isaac) (week of June 15th)
 
 * Pandas: (Leader: TBD)
    * http://pandas.pydata.org/pandas-docs/stable/10min.html
@@ -42,11 +47,11 @@ Exoplanets Review by Lee (2018). (link in Google Drive)
     Plotting: linear vs log space
     
 ### Paper of the week: 
-"Life Outside the Solar System"  by Su-Shu Huang  (Also in google drive
+"Life Outside the Solar System"  by Su-Shu Huang  (Also in google drive)
 https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
 
 
-## Week 3 Group Leader: TBD (week of June 22th)
+## Week 3 Group Leader: Aldo, Joey (week of June 22th)
  * GAIA and SQL interface (online Astronomy Archives)
    * Distances,  Astronometry, Stellar Parameters
  * NASA Exoplanet Archive
