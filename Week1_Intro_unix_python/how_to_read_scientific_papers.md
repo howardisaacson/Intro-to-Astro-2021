@@ -1,6 +1,6 @@
 # How to Read Scientific Papers
 
-by Isabel Angelo & Sarah Blunt (2018, updated 2019)
+by Isabel Angelo & Sarah Blunt (2018, updated 2020)
 
 In this introduction, we suggest some techniques for effectively reading a scientific paper. We also provide resources that are commonly used in astronomy to make finding, reading, and storing papers much easier.
 
@@ -18,7 +18,7 @@ https://www.mendeley.com
 
 Mendeley allows you to download papers and keep them stored in a single, organized library on your own computer. You can also sort papers into cetegories and annotate them (similar to google docs) so you can have notes, definitions, etc. on-hand.
 
-## Closely Reading science papers:
+## Closely Reading Science Papers:
 
 For your assignment this week, please read the paper of the week thoroughly. Try to observe the following note-taking strategy (or use something similar that works for you!):
 
