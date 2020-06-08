@@ -56,7 +56,11 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
    * Download all of the Kepler transiting planets
       * Make histogram of planet radii
       * Make Orbital period vs Planet Radius plot
-      
+
+ * This week offers an extra project involving SETI and Gaia queries.
+   * https://arxiv.org/pdf/1912.03503.pdf
+   * This includes an opportunity to be on a research paper.
+ 
 ### Paper of the week:
 An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
 http://science.sciencemag.org/content/344/6181/277.full (Science Version)
