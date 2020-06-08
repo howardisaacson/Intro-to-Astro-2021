@@ -21,6 +21,8 @@ Astronomers conduct much of their reading online, but a good collection of books
     * TRAPPIST discovery paper https://www.nature.com/articles/nature21360
     * early kepler discovery paper http://science.sciencemag.org/content/327/5968/977
     * exo-Earth discovery paper https://arxiv.org/abs/1404.5667
+  * Planetary Systems - what they look like and how (often) they occur:
+    * https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082214-122246 
 
 * Statistics
 
@@ -61,14 +63,14 @@ Astronomers conduct much of their reading online, but a good collection of books
 * Resources:
    * Exoplanet data analysis in python: https://exoplanet.dfm.io/en/latest/
    
-Readings by Week:
-* Week1: Explanets Review
+Readings by assigned week :
+* Week1: Explanets Review, by Lee
 * week2: "Life Outside the Solar System" by Su-Shu Huang 
-* Week3:  Life outside the solar system (Cont)
-* Week4: Imposter Syndrome (Vivaldi)
-* Week5: An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014) 
-* Week6:    Quintana con't
-* Week7: Imagine exoplanets (Bowler 2016), only certain sections.
-* Week8:    Bowler continued.
+* Week3: An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014) 
+* Week4: Planet Size Distribution - Zeng (2019) 
+* Week5: Whistling Vivaldi - Imposter Syndrome
+* Week6: No paper assigned this week.
+* Week7: Transit Lightcurves of Artificial Objects - Arnold (2005)
+* Week8: Imaging paper - TBD   
 * Week9:  No group paper
 * Week10: No group paper   

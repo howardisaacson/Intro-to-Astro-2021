@@ -5,16 +5,16 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 
 Harassment is any form of behaviour intended to exclude, intimidate, or cause discomfort. Because we are a diverse community, we may have different ways of communicating and of understanding the intent behind actions. Therefore we have chosen to prohibit certain forms of behaviour in our community, regardless of intent. Prohibited harassing behaviour includes but is not limited to:
 
-written or verbal comments which have the effect of excluding people on the basis of membership of a specific group listed above
-causing someone to fear for their safety, such as through stalking, following, or intimidation
-the display of sexual or violent images
-unwelcome sexual attention
-nonconsensual or unwelcome physical contact
-sustained disruption of talks, events or communications
-incitement to violence, suicide, or self-harm
-continuing to initiate interaction (including photography or recording) with someone after being asked to stop
-publication of private communication without consent
-Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Intro2Astro interactions should be professional regardless of location: harassment is prohibited whether it occurs on or offline, and the same standards apply to both.
+Written or verbal comments which have the effect of excluding people on the basis of membership of a specific group listed above
+causing someone to fear for their safety, such as through stalking, following, or intimidation.
+
+* The display of sexual or violent images
+* Unwelcome sexual attention
+* Sustained disruption of talks, events or communications
+* Incitement to violence, suicide, or self-harm
+* Continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+* ublication of private communication without consent
+* Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Intro2Astro interactions should be professional regardless of location: harassment is prohibited whether it occurs on or offline, and the same standards apply to both.
 
 Thank you for helping make this a welcoming, friendly community for all.
 

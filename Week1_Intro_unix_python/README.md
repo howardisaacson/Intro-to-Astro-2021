@@ -17,9 +17,6 @@
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
 * Make sure you familiarize yourself with the Piazza platform this week.
 
-## Writing Prompt (5-7 mins):
-* What are your goals for this course?
-* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, space launches, mars exploration, the rings of saturn, Earth-like planets, etc.
 
 ## Assignment of students to mentors
 * On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
@@ -82,3 +79,8 @@ store their code and collaborate in open source projects. Git can initially be o
 it will become one of your mostly commonly used tools in astronomy.
 
 http://swcarpentry.github.io/git-novice/ (optional)
+
+## Writing Prompt (5-7 mins):
+* What are your goals for this course?
+* What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, space launches, mars exploration, the rings of saturn, Earth-like planets, etc.
+
