@@ -1,7 +1,7 @@
-## Meeting Time: 5:00pm PDT, Tuesday June 18th 2019. 
-Contact Details to be sent out before meeting.
+## Meeting Time: 5:00pm PDT, Monday June 15th 2019. 
+Contact Details will be sent via email.
 
-Instructors: Ellie and Ryan
+Instructors: Aldo and Isaac
 
 #### Agenda: (Because a meeting without an agenda is no meeting at all).
 
