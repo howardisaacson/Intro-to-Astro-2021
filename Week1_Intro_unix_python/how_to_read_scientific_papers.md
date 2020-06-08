@@ -4,21 +4,21 @@ by Isabel Angelo & Sarah Blunt (2018, updated 2019)
 
 In this introduction, we suggest some techniques for effectively reading a scientific paper. We also provide resources that are commonly used in astronomy to make finding, reading, and storing papers much easier.
 
-Finding Scientific Papers:
+## Finding Scientific Papers:
 Use the Astrophysics Data System or ADS:
 
 https://ui.adsabs.harvard.edu
 
 ADS is a database where journal articles in astrophysics are stored. You can query the database by typing in the author, title, or other relevant information about a paper. The search engine will return a list of matches to your search, from which you can find the paper you are looking for.
 
-Downloading and Storing Papers:
+## Downloading and Storing Papers:
 Mendeley is a great application to track the many scientific papers that you will use throughout your careers.
 
 https://www.mendeley.com
 
 Mendeley allows you to download papers and keep them stored in a single, organized library on your own computer. You can also sort papers into cetegories and annotate them (similar to google docs) so you can have notes, definitions, etc. on-hand.
 
-Closely Reading science papers:
+## Closely Reading science papers:
 During class this week, we discussed this paper, which uses direct imaging to discover and confirm and exoplanet:
 
 https://arxiv.org/pdf/1509.07514.pdf
