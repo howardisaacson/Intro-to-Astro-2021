@@ -1,12 +1,18 @@
 
 # Agenda
 - Motivation
+- Overleaf tutorial
 - LaTeX tutorial
 - Paper discussion
 - Introduce final project
 - http://urap.berkeley.edu
 
 ### Tutorial
+
+#### Sofia: Overleaf
+
+Link coming soon!
+
 #### Ryan: LaTeX
 
 [Link to today's tutorial](https://github.com/howardisaacson/Intro-to-Astro-2019/blob/master/Week8_latex/LaTeX%20Tutorial/LaTeX_tutorial.pdf)
