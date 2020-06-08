@@ -1,9 +1,10 @@
 # Timeline for Summer 2020.
 
-## Week 1. Group Leaders: Howard (Intro), Tim (Python, Isabel) (week of June 8th)
+## Week 1. Group Leaders: Howard (Intro), Tim (Python), Isabel(Reading Academic Papers) (week of June 8th)
 * GitHub: Version Control, git-clone vs downloading repositories.
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
 * Coding programs: Textwrangler, PyCharm, Atom, or Sublime Text.
+
 ### Accounts needed:
   * Github.com
   * Google Drive (general gmail account)
