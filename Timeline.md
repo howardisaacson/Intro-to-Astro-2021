@@ -24,7 +24,7 @@
 * Jupyter
 * [Jupyter labs](https://github.com/jupyterlab/jupyterlab)
 
-### Part II of Week 1.
+### Part III of Week 1.
   How to read a research paper.
   
 ### Paper of the week:
@@ -61,71 +61,62 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
       
       
 ### Paper of the week:
-The Role of Identity in Astronomy:
-Article: Whistling Vivaldi (link in google drive)
+An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
+http://science.sciencemag.org/content/344/6181/277.full (Science Version)
+https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
 
-## Week 4 Group Leader: TBD (week of June 29nd)
+## Week 4 Group Leader: Tim, Joey, Isabel, (week of June 29nd)
  * Radvel:
  * Beyond the radvel tutorial, do better to explain what is going on. 
  * Add more comments about basic python usage.
 
 ### Paper of the week:
-TBD
+Zeng (2019), link in Google Drive.
 
-## Week 5  Group Leader:  TBD  (week of July 6th)
+## Week 5  Group Leader:  Joey, Ryan  (week of July 6th)
  * Build a website using wix.com (Leader: TBD) 
     * What belongs on an academic website. 
  * make a CV using Overleaf.com 
  
 ### Paper of the week:
-TBD
+The Role of Identity in Astronomy:
+Article: Whistling Vivaldi (link in google drive)
 
-## Week 6 Group Leader: TBD (week of July 13th)
+
+## Week 6 Group Leader: Isabel, Isaac, Sofia (week of July 13th)
 * TESS tutorial (Leader: TBD)
   * Download TESS data
   * Identify planet Transit period
 
-
 * Download Kepler photometric data Data: (optional)
    * For a Kepler tutorial, please see [Intro2Astro 2018](https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018/blob/master/Week6_kepler_photometry/Kepler_Photometry_Tutorial.ipynb)
-### Paper of the week:
-An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
-http://science.sciencemag.org/content/344/6181/277.full (Science Version)
-https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
-## Week 7 Group Leader: TBD (week of July 20rd)
+### Paper of the week:
+No paper assigned this week.
+
+## Week 7 Group Leader: Sofia, Howard (week of July 20rd)
  *  Statistics: median/mean/mode leading into outlier rejection and uncertainty (Leader: TBD)
  *  Photon Statistics: Detector noise and how to measure the strength of your detection
  *  An Introduction to the programming language R in discussing habitability.
     * Installing R (https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
 
 ### Paper of the week:
-An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
-http://science.sciencemag.org/content/344/6181/277.full (Science Version)
-https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
+Arnold (2005), https://www.pnas.org/content/116/20/9723, Also available in Google Drive.
 
-
-
-## Week 8 (Group Leader: TBD) (week of July 27th)
-* High Resolution Spectra
-  * examine many Keck/APF spectra: determine resolution 
-     * Give examples of low, medium and high resolution spectra.
-  * Cross Correlation: What is it and what does it tell us
-  * Determining Precise Radial Velocities.
-  * (plot resolution as a function of wavelength), Use Haynes tutorial as a guide
-  
+## Week 8 (Group Leader: Sofia, Ryan, Tim) (week of July 27th)
+* Overleaf, LaTex  
 * Continue discussion of Research topics.
 
-
 ### Paper of the week:
+* Imaging paper, TBD.
 
-## Week 9 ( Group Leader: TBD) (week of August 3rd) 
+## Week 9. Group Leader: Isabel, Isaac, Aldo. (week of August 3rd) 
 * Begin Final Project: Research Proposal
 * Article Databases: ADS, Google Scholar, arXiv.org
 
 ### Paper of the week:
-
+None
 
 ## Week 10 (Group Leader: All) (week of August 10th)
 * Final Project: Research proposal discussion.
