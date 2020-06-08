@@ -1,1 +1,5 @@
+# Ignore .ipynb_checkpoints/ directories
 Week4_rv_fitting_radvel/.ipynb_checkpoints/*
+
+# Ignore Apple calendar file
+*.ics
