@@ -1,23 +1,28 @@
+README:
 # Agenda:
 
-### Sarah: Intro
-- Motivation.
+### Howard: Intro
+- Check-in, and a few words about TESS Spacecraft.
 
 ### Writing Exercise: 
-In your online notebooks, please spend 10 minutes responding to the following prompt:
+In your online notebooks, please spend 10 minutes responding to the following prompts:
 
-    1. Write down everything you know about how exoplanets are detected and characterized. What is confusing or unclear? What questions do you still have?
+    1. Write down what you remember from previous weeks about Kepler, transits, and photometry.
     
-### Discussion:
-1. Sarah: Exoplanet Detection and Orbit-fitting.
+### Tutorials:
+1. Ellie: Tutorial on downloading and plotting TESS 2-minute lightcurves
+2. Group Discussion: (5 mins for each question; 10 mins for last question)
+
+    1. Summarize the "Whistling Vivaldi" chapter.
+    2. What are your reactions to the "Whistling Vivaldi" chapter? Did anything surprise you? What did you learn?
+    3. How does stereotype threat affect your life? 
+    4. More generally, how do race, gender, and our other identities affect our daily lives, both in and outside astronomy?
 
 ### Paper of the Week:
-[Whistling Vivaldi](https://drive.google.com/drive/folders/1mNisjq1yZL2pIpoysNbK3xCAfuZrtX-Q). 
-
-Although we would like to think of science as purely logical, it is impossible to separate the science being done from the scientist who is doing it. Next week, we will have a discussion about identity, equity, and inclusion in the context of astronomy research. Please read this excellent summary of stereotype threat to prepare. Astronomy is not equally accessible to everyone. Let's change that!
+  
+[An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)] (https://drive.google.com/open?id=1exTajYt-4-fpcHfH4NMo3XaZZnX1KjI5)
 
 # Assignments:
 
-1. Check your work from last week against the tutorial answer keys (posted in week 3 folder)
-2. Read Whistling Vivaldi article (see above) about stereotype threat. Be prepared to discuss this reading in-class next week.
-3. Complete Ruben's & Sarah's RadVel tutorial.
+1. Complete the TESS tutorial. Which TESS planet did you choose to rediscover and why?
+2. Look through this [Dropbox](https://www.dropbox.com/sh/jkslarj06iuvq2e/AAB5PENEy83B5rHihd2x9nEQa?dl=0) full of readings about race, gender, and other identities & the scientific community. Spend an hour (time yourself) reading whatever interests you. Write a two paragraph reflection about what you read.
