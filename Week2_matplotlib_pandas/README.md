@@ -33,7 +33,7 @@ Instructors: Aldo and Isaac
 ### I Paper of the week:
 ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing) by Su-Shu Huang.
 
-Refer to our [paper reading guide](https://https://github.com/howardisaacson/Intro-to-Astro-2020/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md) while reading this paper!
+Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2020/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md) while reading this paper!
 
 Post 2-3 questions you have about this paper on our class [Piazza](https://piazza.com/intro_to_astro/summer2020/astr101/home) page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
 
