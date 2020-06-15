@@ -31,11 +31,11 @@ Instructors: Aldo and Isaac
 ## Assignments for this Week:
 
 ### I Paper of the week:
-"Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
+["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing) by Su-Shu Huang.
 
-Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Intro-to-Astro-2019/blob/master/Week3_gaia_exoplanet_archive/HowToReadAScientificPaper.md) guide for advice!
+Refer to our [paper reading guide](https://https://github.com/howardisaacson/Intro-to-Astro-2020/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md) while reading this paper!
 
-Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
+Post 2-3 questions you have about this paper on our class [Piazza](https://piazza.com/intro_to_astro/summer2020/astr101/home) page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
 
 ### II Respond to Discussion Question 2 in "Discussion Questions" above
 
