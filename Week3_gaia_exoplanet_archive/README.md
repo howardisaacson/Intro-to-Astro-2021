@@ -1,22 +1,51 @@
-# Agenda:
+## Meeting Time: 5:00pm PDT (UT-7), Monday June 22nd, 2020.
+Connection details will be sent via email
 
-### Howard: Intro
-- Check-in. 
+Instructors: Joey and Aldo
 
-### Writing Exercise: 
-In your online notebooks, please spend 5 minutes responding to the following prompt:
+#### Agenda:
+* Intro
+* Writing exercise
+* NASA Exoplanet Archive tutorial
+* Gaia Database tutorial
+* Discussion Questions for ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing)
 
-    What tactics do you use when reading scientific papers? What is effective, and what isn't? What would you like to do better?
-    
+### Intro
+* Check-in poll
+* ...
+
+### Writing Exercise:
+In your online notebooks (create a Google Doc for yourself in your personal [Google Drive folder](https://drive.google.com/drive/folders/1OvyqtCVJ9pP1dbwtozxFjz5VudCTxZdq?usp=sharing) for this class, if you don't already have one), please spend 5 minutes responding to the following prompt:
+
+*For this week you were asked to read an article from 1960: ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing) by Su-Shu Huang. In the paper, we learned about the relationship between the spectral type of a star and its ability to host life-bearing planets. The Sun is a G-type star which will live on the main sequence for about 10 billion years. M-type stars are much less massive and will live on the main sequence for 10 times as long. What would a civilization on a planet around an M-type star look like if it had 100 billion years to evolve?*
+
+Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to_astro/summer2020/astr101/home) to continue the discussion!
+
 ### Tutorials:
-1. Alma: NASA Exoplanet Archive
-2. Sarah: Gaia Database
-3. Sarah: How to Read a Scientific Paper
+1. Joey: NASA Exoplanet Archive
+  - What is the NASA Exoplanet Archive?
+  - What kind of data does it contain?
+  - How can I access the data myself?
+  - How do I visualize the data?
 
-# Assignments:
+2. Aldo: Gaia Database
 
-1. Complete Alma's NASA Exoplanet Archive jupyter notebook.
+### Discussion Questions
+1. O, B, and A-type stars are the most massive (i.e. most luminous) types of stars. This means they also have the largest habitable zones (see the last figure in ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing)). Why, then, are they poor targets in the search for life-bearing planets?
+2. How does the multiplicity of stellar systems (i.e. single stars vs binaries, triples, etc.) affect the prospects for finding life on planets?
+3. If you had to distill the "ingredients" for producing intelligent life on a planet down to a short list, what would it be?
+4. After reading ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing), has your opinion changed about whether or not we'll ever discover life around another star?
 
-2. Complete Sarah's Gaia Database jupyter notebook.
+## Assignments for this Week
 
-3. Finish reading ["Life Outside the Solar System"](https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf) by Su-Shu Huang. Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2019/blob/master/Week3_gaia_exoplanet_archive/HowToReadAScientificPaper.md). Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like! To be explicit, you should post 2-3 questions total about this paper (i.e. you don't have to post more questions this week if you already posted 2 last week).
+### I NASA Exoplanet Archive tutorial
+Complete sections 3 and 4 in Joey's Jupyter notebook tutorial on how to use the NASA Exoplanet Archive (see instructions inside notebook).
+
+### II Gaia Database tutorial
+...
+
+### III Discussion Questions
+Choose 2 discussion questions (above) to respond to in your online notebook.
+
+### IV Paper of the Week
+Read ["An Earth-Sized Planet in the Habitable Zone of a Cool Star"](https://drive.google.com/file/d/14CJ_VsCKg09JYu_hfp2icFW2ZIIJ_c4o/view?usp=sharing) by Elisa V. Quintana *et al*. Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2020/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md). Post 2-3 questions you have about this paper on our class [Piazza](https://piazza.com/intro_to_astro/summer2020/astr101/home) page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
