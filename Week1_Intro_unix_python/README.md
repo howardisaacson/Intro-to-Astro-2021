@@ -19,7 +19,7 @@
 
 
 ## Assignment of students to mentors
-* On the google doc, check to see who your mentor is. This will be your primary point of contact for the rest of the course.
+* On the google doc, check your name to mark your attendnce. Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 9 for final projects. Until then please attend a mentor's office hour to chat with a mentor.
 
 ## Assignments for Week 1
 
