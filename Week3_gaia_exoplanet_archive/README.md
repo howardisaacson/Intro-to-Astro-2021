@@ -11,8 +11,6 @@ Instructors: Joey and Aldo
 * Discussion Questions for ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing)
 
 ### Intro
-* Check-in poll
-* ...
 
 ### Writing Exercise:
 In your online notebooks (create a Google Doc for yourself in your personal [Google Drive folder](https://drive.google.com/drive/folders/1OvyqtCVJ9pP1dbwtozxFjz5VudCTxZdq?usp=sharing) for this class, if you don't already have one), please spend 5 minutes responding to the following prompt:
@@ -42,7 +40,6 @@ Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to
 Complete sections 3 and 4 in Joey's Jupyter notebook tutorial on how to use the NASA Exoplanet Archive (see instructions inside notebook).
 
 ### II Gaia Database tutorial
-...
 
 ### III Discussion Questions
 Choose 2 discussion questions (above) to respond to in your online notebook.
