@@ -1,5 +1,14 @@
-README:
-# Agenda:
+## Meeting Time: 5:00pm PDT (UT-7), Monday June 29th, 2020.
+Connection details will be sent via email
+
+Instructors: Tim and Joey
+
+#### Agenda:
+* Intro
+* Writing exercise
+* TESS tutorial
+* Chi-squared tutorial
+* Group Discussion
 
 ### Howard: Intro
 - Check-in, and a few words about TESS Spacecraft.
@@ -11,7 +20,8 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 ### Tutorials:
 1. Tim: Tutorial on downloading and plotting TESS 2-minute lightcurves
-2. Group Discussion: (5 mins for each question; 10 mins for last question)
+2. Joey: Tutorial on chi-squared minimization
+3. Group Discussion: (5 mins for each question; 10 mins for last question)
 
     1. Summarize the "Whistling Vivaldi" chapter.
     2. What are your reactions to the "Whistling Vivaldi" chapter? Did anything surprise you? What did you learn?
@@ -20,9 +30,9 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 ### Paper of the Week:
 
-[An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)] (https://drive.google.com/open?id=1exTajYt-4-fpcHfH4NMo3XaZZnX1KjI5)
+[Growth model interpretation of planet size distribution (Zeng et al. 2019)] (https://drive.google.com/file/d/1dSFWhcip5TK61KJ6jm-whv3R7cEWgP57/view?usp=sharing)
 
-# Assignments:
+## Assignments for this Week
 
 1. Complete the TESS tutorial. Which TESS planet did you choose to rediscover and why?
 2. Look through this [Dropbox](https://www.dropbox.com/sh/jkslarj06iuvq2e/AAB5PENEy83B5rHihd2x9nEQa?dl=0) full of readings about race, gender, and other identities & the scientific community. Spend an hour (time yourself) reading whatever interests you. Write a two paragraph reflection about what you read.
