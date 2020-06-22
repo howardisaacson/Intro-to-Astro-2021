@@ -27,11 +27,9 @@ Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to
   - How do I visualize the data?
 
 2. Aldo: Gaia Database
-The tutorial questions are at the bottom of the 'GaiaTutorialAssignment.ipynb' file. Make sure you try working with ADQL and do some test queries beforehand! You'll be plotting a Color-Magnitude Diagram of the 10,000 Closest Stars.
-Bonus Questions: 
-  - Compare your results against Figure 1 in this paper: https://arxiv.org/pdf/1804.09378.pdf. 
-  - What similarities and differences do you notice? 
-  - Challenge: read section 2.1 of that paper and try to reproduce their plot exactly.
+  - What is Gaia?
+  - How can I access Gaia data? Basic and advanced queries.
+  - A bit on ADQL
 
 
 ### Discussion Questions
@@ -46,7 +44,11 @@ Bonus Questions:
 Complete sections 3 and 4 in Joey's Jupyter notebook tutorial on how to use the NASA Exoplanet Archive (see instructions inside notebook).
 
 ### II Gaia Database tutorial
-
+The tutorial questions are at the bottom of the 'GaiaTutorialAssignment.ipynb' file. Make sure you try working with ADQL and do some test queries beforehand! You'll be plotting a Color-Magnitude Diagram of the 10,000 Closest Stars.
+Bonus Questions: 
+  - Compare your results against Figure 1 in this paper: https://arxiv.org/pdf/1804.09378.pdf. 
+  - What similarities and differences do you notice? 
+  - Challenge: read section 2.1 of that paper and try to reproduce their plot exactly.
 ### III Discussion Questions
 Choose 2 discussion questions (above) to respond to in your online notebook.
 
