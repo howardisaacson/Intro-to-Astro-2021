@@ -27,6 +27,12 @@ Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to
   - How do I visualize the data?
 
 2. Aldo: Gaia Database
+The tutorial questions are at the bottom of the 'GaiaTutorialAssignment.ipynb' file. Make sure you try working with ADQL and do some test queries beforehand! You'll be plotting a Color-Magnitude Diagram of the 10,000 Closest Stars.
+Bonus Questions: 
+  - Compare your results against Figure 1 in this paper: https://arxiv.org/pdf/1804.09378.pdf. 
+  - What similarities and differences do you notice? 
+  - Challenge: read section 2.1 of that paper and try to reproduce their plot exactly.
+
 
 ### Discussion Questions
 1. O, B, and A-type stars are the most massive (i.e. most luminous) types of stars. This means they also have the largest habitable zones (see the last figure in ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing)). Why, then, are they poor targets in the search for life-bearing planets?
