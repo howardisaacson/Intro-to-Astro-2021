@@ -19,7 +19,7 @@ Instructors: Joey and Ryan
 Ryan: [Growth model interpretation of planet size distribution](https://drive.google.com/file/d/1dSFWhcip5TK61KJ6jm-whv3R7cEWgP57/view?usp=sharing) (Zeng et al. 2019)
 
 ### Paper of the Week:
-[Whistling Vivaldi](https://drive.google.com/drive/folders/1mNisjq1yZL2pIpoysNbK3xCAfuZrtX-Q).
+[Whistling Vivaldi - Chapter 3](https://drive.google.com/drive/folders/1mNisjq1yZL2pIpoysNbK3xCAfuZrtX-Q).
 
 Although we would like to think of science as purely logical, it is impossible to separate the science being done from the scientist who is doing it. Next week, we will have a discussion about identity, equity, and inclusion in the context of astronomy research. Please read this excellent summary of stereotype threat to prepare. Astronomy is not equally accessible to everyone. Let's change that!
 
