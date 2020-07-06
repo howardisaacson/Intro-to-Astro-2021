@@ -25,7 +25,7 @@ Although we would like to think of science as purely logical, it is impossible t
 
 ### Assignments for this Week
 
-1. Check your work from last week against the tutorial answer keys (posted in week 3 folder)
+1. Check your work from last week against the tutorial answer keys (posted in week 4 folder)
 2. Complete the `assignment` items in the fitting tutorial
 3. Complete the remaining `#TODO` items in the RadVel tutorial
 3. Read Whistling Vivaldi article (see above) about stereotype threat. Be prepared to discuss this reading in-class next week.
