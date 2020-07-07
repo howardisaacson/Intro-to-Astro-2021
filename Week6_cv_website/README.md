@@ -11,8 +11,7 @@ Class discussion on [Quintana et al. 2014](https://arxiv.org/pdf/1404.5667.pdf).
 What is the purpose of an academic website? What information should go on an academic website?
     
 ### Tutorial:
-1. Alma: Creating a Website
-https://www.wix.com 
+1. Isaac: Creating a website
 2. Alma: Creating a Curriculum Vitae (CV).
 
 # Assignments:
@@ -37,11 +36,10 @@ Here are some examples of websites from various undergrads, grad students/post d
  
 *grad student/post doc websites:*
 - https://www.astro.princeton.edu/~ghalevi/ (Goni Halevi, grad student)
-- https://www.erikpetigura.com/ (Erik Petigura, postdoc)
-- http://lweiss25.wixsite.com/weiss (Lauren Weiss, postdoc)
+- https://sites.google.com/view/calebharada/home
 
 *faculty websites:*
-
-- http://web.gps.caltech.edu/~hknutson/Welcome.html (Heather Knutson)
+- https://www.erikpetigura.com/ (Erik Petigura, postdoc)
 - http://www.as.utexas.edu/~bpbowler/ (Brendan Bowler)
-- http://w.astro.berkeley.edu/~dressing/ (Courtney Dressing)
+- http://w.astro.berkeley.edu/~dressing (Courtney Dressing)
+- https://sites.google.com/umich.edu/emily-rauscher/home
