@@ -6,7 +6,7 @@
 ### Website/CV Presentations (no paper this week)
     
 ### Tutorials:
-1. Sofia: Looking for ETI - Radio SETI Tutorial (not posted yet)
+1. Sofia: Looking for ETI - Radio SETI Tutorial
 2. Howard: [Photon statistics tutorial](photon_stats_tutorial.ipynb)
 
 # Assignments:
