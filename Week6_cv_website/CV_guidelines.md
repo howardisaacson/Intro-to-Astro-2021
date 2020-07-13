@@ -15,7 +15,7 @@ to edit yourself. This makes it user-friendly and a great introduction to learni
 Make an account on overleaf (https://www.overleaf.com/).
 
 **Step 2:** 
-Select the Resume/CV template that you would like to use.
+Upload the template files (available under the Week 6 github page for Intro2Astronomy), or select a differnt Resume/CV template that you would like to use.
 
 **Step 3:** 
 Edit the source text/LaTeX code on the left side of the template with your information to create your own personal CV!
