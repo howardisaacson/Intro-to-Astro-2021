@@ -1,5 +1,5 @@
 # Making a Curriculum Vitae #
-by: Isabel Angelo (2018) 
+by: Isabel Angelo (2020) 
 
 For this week's assignment, we are going to create our own academic curriculum vitae, or CV. 
 
