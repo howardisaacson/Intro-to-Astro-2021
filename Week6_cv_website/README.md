@@ -30,10 +30,13 @@ https://arjunsavel.github.io/ (Arjun Savel, undergrad)
  
 *grad student/post doc websites:*
 https://sites.psu.edu/szs714/ (Sofia Sheikh, grad student)
+
 https://rrubenza.github.io/ (Ryan Rubenzahl, grad student)
 
 
 *faculty websites:*
 https://hisaacson2.wixsite.com/website (Howard Isaacson, professional astronomer)
+
 http://w.astro.berkeley.edu/~dressing/ (Courtney Dressing, professor)
+
 https://www.erikpetigura.com/ (Erik Petigura, professor)
