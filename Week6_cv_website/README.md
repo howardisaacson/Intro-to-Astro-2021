@@ -2,17 +2,14 @@ README:
 # Agenda:
 
 ### Intro (Howard)
-- Intro, Check-in. The Future of Astronomy: Communication and Collaboration.
+- Intro, Check-in. 
 
-### Recap of the Exoplanet Discovery Paper :
-Class discussion on [Quintana et al. 2014](https://arxiv.org/pdf/1404.5667.pdf). See the "Tips for Presenting Quintana et al. (2014)" in the readme for this week.
-
-### Writing Exercise: 
-What is the purpose of an academic website? What information should go on an academic website?
+### Recap of Whistling Vivaldi :
+Class discussion on The Role of Identity in Astronomy: Article: Whistling Vivaldi (link in google drive). 
     
 ### Tutorial:
 1. Isaac: Creating a website
-2. Alma: Creating a Curriculum Vitae (CV).
+2. Isabel: Creating a Curriculum Vitae (CV).
 
 # Assignments:
 1. Look up the personal websites (NOT university faculty page!) of at least five different astronomers. Explore them in detail. Write an entry in your notebook describing what you like and what you don't like. Remember, a website is often times many people's first impression of you, what do you want them to know? Remember to consider content as well as aesthetics. Use this in planning a design for your personal website.
@@ -29,17 +26,14 @@ What is the purpose of an academic website? What information should go on an aca
 Here are some examples of websites from various undergrads, grad students/post docs, and faculty. Feel free to browse them for inspiration!
 
 *undergrad websites:*
-
-- loganpearcescience.com (Logan Pearce, undergrad)
-- http://ugastro.berkeley.edu/~ipasha/# (Imad Pasha, undergrad)
-- https://isabelangelo8.wixsite.com/isabelangelo (Isabel Angelo, postbac)
+https://arjunsavel.github.io/ (Arjun Savel, undergrad)
  
 *grad student/post doc websites:*
-- https://www.astro.princeton.edu/~ghalevi/ (Goni Halevi, grad student)
-- https://sites.google.com/view/calebharada/home
+https://sites.psu.edu/szs714/ (Sofia Sheikh, grad student)
+https://rrubenza.github.io/ (Ryan Rubenzahl, grad student)
+
 
 *faculty websites:*
-- https://www.erikpetigura.com/ (Erik Petigura, postdoc)
-- http://www.as.utexas.edu/~bpbowler/ (Brendan Bowler)
-- http://w.astro.berkeley.edu/~dressing (Courtney Dressing)
-- https://sites.google.com/umich.edu/emily-rauscher/home
+https://hisaacson2.wixsite.com/website (Howard Isaacson, professional astronomer)
+http://w.astro.berkeley.edu/~dressing/ (Courtney Dressing, professor)
+https://www.erikpetigura.com/ (Erik Petigura, professor)
