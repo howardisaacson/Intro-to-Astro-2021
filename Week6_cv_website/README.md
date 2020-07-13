@@ -4,12 +4,13 @@ README:
 ### Intro (Howard)
 - Intro, Check-in. 
 
-### Recap of Whistling Vivaldi :
-Class discussion on The Role of Identity in Astronomy: Article: Whistling Vivaldi (link in google drive). 
-    
 ### Tutorial:
 1. Isaac: Creating a website
 2. Isabel: Creating a Curriculum Vitae (CV).
+
+### Recap of Whistling Vivaldi :
+Class discussion on The Role of Identity in Astronomy: Article: Whistling Vivaldi (link in google drive). 
+
 
 # Assignments:
 1. Look up the personal websites (NOT university faculty page!) of at least five different astronomers. Explore them in detail. Write an entry in your notebook describing what you like and what you don't like. Remember, a website is often times many people's first impression of you, what do you want them to know? Remember to consider content as well as aesthetics. Use this in planning a design for your personal website.
