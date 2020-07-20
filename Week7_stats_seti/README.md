@@ -16,3 +16,6 @@
 2. Complete the Finding_ETI tutorial
 3. Complete the [Intro to Statistics Tutorial from Peter Norvig](https://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 4. Complete the [Photon statistics tutorial](photon_stats_tutorial.ipynb)
+
+# Read the Arnold 2005 paper for discussion in week 8.
+https://iopscience.iop.org/article/10.1086/430437/pdf
