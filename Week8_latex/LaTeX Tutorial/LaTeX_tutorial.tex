@@ -25,9 +25,10 @@ bg= blue!5}
     \href{mailto:rrubenza@caltech.edu}{rrubenza@caltech.edu} \\ 
 \end{tabular}}
 
-\date[\today]{\today}
+%\date[\today]{\today}
+\date[July 27, 2020]{July 27, 2020}
 \title[Learning \LaTeX \hspace{.81\textwidth} \insertframenumber/\inserttotalframenumber]{{\Large Learning \LaTeX}}
-\institute[Intro to Astronomy 2019]{Intro to Astronomy 2019}
+\institute[Intro to Astronomy 2020]{Intro to Astronomy 2020}
 
 % Turn off nav symbols
 \beamertemplatenavigationsymbolsempty
@@ -99,6 +100,8 @@ bg= blue!5}
 \hfill
 \begin{minipage}{.45\textwidth}
 \includegraphics[width=\textwidth]{./figures/learnlatex.png} % Credit LaTeX memes for well typeset teens https://www.facebook.com/badness10000/
+{\footnotesize \underline{Via \href{https://www.facebook.com/badness10000/}{\LaTeX\, memes for well typeset teens}}}
+
 \end{minipage}
 \end{frame}
 
@@ -129,7 +132,7 @@ bg= blue!5}
 		\bi e.g. \mintinline{latex}{\LaTeX, \hfill, \newline} \ei \ei
 		\bi Command name consists of a \alert{backslash and exactly one non-letter}
 		\bi e.g. \mintinline{latex}{\,, \;, \{, \}}\ei \ei \ei
-	\bi A command is written as follows: \ei
+	\bi A command may also take parameters: \ei
 	\begin{minted}{latex}
 	\command[optional parameter]{parameter}
 	\end{minted}
@@ -137,7 +140,7 @@ bg= blue!5}
 	\begin{minted}{latex}
 	\newcommand{name}[num]{definition}
 	\end{minted}
-	\bi \texttt{num} = number of parameters, which are referred to in \texttt{definition} by \#1, \#2, etc. Command is called with \mintinline{latex}{\name} just like any other. \ei \ei
+	\bi \texttt{num} = number of parameters, which are referred to in \texttt{definition} by \texttt{\#1}, \texttt{\#2}, etc. Command is called with \mintinline{latex}{\name} just like any other. \ei \ei
 \end{frame}	
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   S   L   I   D   E   %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -145,8 +148,8 @@ bg= blue!5}
 \begin{frame}[fragile]{Making a Document: Setup}
 	\bi \alert{Preamble}: section of code between \mintinline{latex}{\documentclass} and \mintinline{latex}{\begin{document}} \ei
 	\bi Document Classes: Defined by \mintinline{latex}{\documentclass[options]{class}}
-	\bi \textit{class} specifies the type of document, e.g. article, beamer, report, book, etc. \ei
-	\bi \textit{options} specify the behavior of the document, e.g. font-size, paper-size, one/two column, etc. \ei \ei
+	\bi \texttt{options} specify the behavior of the document, e.g. font-size, paper-size, one/two column, etc. \ei
+	\bi \texttt{class} specifies the type of document, e.g. article, beamer, report, book, etc. \ei \ei
 	\bi The preamble is also where one can \alert{import packages} 
 	\begin{minted}{latex}
 	\usepackage[options]{package}
@@ -183,9 +186,9 @@ bg= blue!5}
 	\section{...}, \subsection{...}, \subsubsection{...}
 	\paragraph{...}, \subparagraph{...}
 	\end{minted}
-	\bi The section will be in effect until a new section command is encountered or the document ends
+	\bi The section will be ``in effect'' until a new section command is encountered or the document ends
 	\bi Only with \texttt{report} or \texttt{book} class: \mintinline{latex}{\chapter{...}} \ei \ei
-	\bi Some sections do not take an argument, e.g. \ei
+	\bi Some special sections do not take an argument, e.g. \ei
 	\begin{minted}{latex}
 	\abstract, \appendix, \tableofcontents
 	\end{minted}
@@ -205,10 +208,12 @@ bg= blue!5}
 \bi A \LaTeX{} \alert{environment} is a way of grouping part of a document according to some formatting rules
 \bi Environments may be nested so long as order is maintained \ei \ei
 \bi Declared with \mintinline{latex}{\begin{environment}} and ended with \mintinline{latex}{\end{environment}}
-\bi The main \mintinline{latex}{\begin{document}} itself is an example of an environment \ei \ei
+\bi The main \mintinline{latex}{\begin{document}} and \mintinline{latex}{\end{document}} itself is an example of an environment \ei \ei
 \bi Some common environments:
 	\bi \texttt{itemize} for simple (bulleted) lists, \texttt{enumerate} for enumerated lists \ei
-	\bi \texttt{tabular}, \texttt{figure}, \texttt{minipage}, \texttt{center}, \texttt{quote} \ei \ei
+	\bi \texttt{tabular}, \texttt{table}, \texttt{figure}, \texttt{minipage}, \texttt{center}, \texttt{quote} \ei 
+	\bi \texttt{equation}, \texttt{align} \ei
+	\bi \texttt{frame} (Beamer) \ei \ei
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   S   L   I   D   E   %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -467,11 +472,12 @@ TUGboat Volume~9, Issue~1 (1988)
      	\bi Quote marks: begin your quote with \mintinline{latex}{``}, end with \mintinline{latex}{''} \ei
 	\bi Certain symbols like underscores will not work outside of math mode
 		\bi If you need it, you can usually escape it with backslash: \mintinline{latex}{\_} \ei \ei
-   	\bi Be careful with exponentiation: \mintinline{latex}{$10^{-23}$} \ei
+   	\bi Be careful with exponentiation: \mintinline{latex}{$10^{-23}$}, not \mintinline{latex}{$10^-23$} \ei
 	\bi Format parenthesis in equations properly: use \mintinline{latex}{\left( \right)} \ei
-	\bi Put text inside a math environment with \mintinline{latex}{\text{}} \ei
+	\bi Put text inside a math environment with \mintinline{latex}{\text{words}} \ei
 	\bi \LaTeX{} is not always the most intuitive - \alert{there is a learning curve!}
-		\bi You will spend 15 minutes at one point fighting with the float-placement algorithm \ei 
+		\bi You will spend 15 minutes at one point fighting with the float-placement algorithm to get your figure on the page you want it 
+			\bi In general, there are good reasons why \LaTeX{} behaves the way it does \ei \ei
 		\bi Most issues are easily google-able, or are on TeX stack exchange \ei \ei
 \end{frame}
 	

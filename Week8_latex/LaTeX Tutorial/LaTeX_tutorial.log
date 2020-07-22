@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.13)  28 JUL 2019 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.13)  22 JUL 2020 15:24
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1071,17 +1071,17 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 <./figures/latex-comic.jpeg, id=77, 305.14pt x 373.395pt>
 File: ./figures/latex-comic.jpeg Graphic file (type jpg)
 <use ./figures/latex-comic.jpeg>
-Package pdftex.def Info: ./figures/latex-comic.jpeg  used on input line 65. on 
-input line 65.
+Package pdftex.def Info: ./figures/latex-comic.jpeg  used on input line 66. on 
+input line 66.
 Package pdftex.def Info: Requested size: 107.55333pt x 131.6132pt on input line
- 65.
+ 66.
 <./figures/file_extensions.png, id=78, 273.72263pt x 299.9205pt>
 File: ./figures/file_extensions.png Graphic file (type png)
 <use ./figures/file_extensions.png>
-Package pdftex.def Info: ./figures/file_extensions.png  used on input line 65. 
-on input line 65.
+Package pdftex.def Info: ./figures/file_extensions.png  used on input line 66. 
+on input line 66.
 Package pdftex.def Info: Requested size: 107.55333pt x 117.84718pt on input lin
-e 65.
+e 66.
  [3
 
  <./figures/latex-comic.jpeg> <./figures/file_extensions.png>] (./LaTeX_tutoria
@@ -1103,7 +1103,7 @@ D62CFB7DC5B.pygtex)) [5
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.66702pt
-(hyperref)                removed on input line 89.
+(hyperref)                removed on input line 90.
 
 (./LaTeX_tutorial.toc) [6
 
@@ -1111,31 +1111,39 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 <./figures/learnlatex.png, id=144, 593.21625pt x 803.0pt>
 File: ./figures/learnlatex.png Graphic file (type png)
 <use ./figures/learnlatex.png>
-Package pdftex.def Info: ./figures/learnlatex.png  used on input line 103. on i
-nput line 103.
+Package pdftex.def Info: ./figures/learnlatex.png  used on input line 106. on i
+nput line 106.
 Package pdftex.def Info: Requested size: 138.2795pt x 187.17343pt on input line
- 103.
- [7
+ 106.
 
- <./figures/learnlatex.png (PNG copy)>]
-(./LaTeX_tutorial.toc) [8
+Overfull \hbox (1.30836pt too wide) in paragraph at lines 106--106
+[]$ 
+ []
+
+
+Overfull \vbox (0.60968pt too high) detected at line 106
+ []
+
+[7
+
+ <./figures/learnlatex.png (PNG copy)>] (./LaTeX_tutorial.toc) [8
 
 ]
-<./figures/texstackexchange.png, id=176, 415.5525pt x 128.48pt>
+<./figures/texstackexchange.png, id=177, 415.5525pt x 128.48pt>
 File: ./figures/texstackexchange.png Graphic file (type png)
 <use ./figures/texstackexchange.png>
-Package pdftex.def Info: ./figures/texstackexchange.png  used on input line 121
-. on input line 121.
+Package pdftex.def Info: ./figures/texstackexchange.png  used on input line 124
+. on input line 124.
 Package pdftex.def Info: Requested size: 153.64493pt x 47.50352pt on input line
- 121.
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 121
+ 124.
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 124
 .
-LaTeX Font Info:    No file OMScmtt.fd. on input line 121.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 124.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 121.
+(Font)              for symbol `textbackslash' on input line 124.
 
 [9
 
@@ -1277,6 +1285,11 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
 
 
 (./_minted-LaTeX_tutorial/90C389406D0AF26499AFBD509C6D0280762556F0E7C29D55187A8
+47219DF9D00.pygtex)
+\openout7 = `LaTeX_tutorial.pyg'.
+
+
+(./_minted-LaTeX_tutorial/E140DA65018884348D03B6AA65D8E722762556F0E7C29D55187A8
 47219DF9D00.pygtex)) [15
 
 ]
@@ -1447,12 +1460,21 @@ Package pdftex.def Info: Requested size: 61.45703pt x 40.89598pt on input line
 \openout7 = `LaTeX_tutorial.pyg'.
 
 
+(./_minted-LaTeX_tutorial/FC93D4EBC4505F785B8ACD742844F232762556F0E7C29D55187A8
+47219DF9D00.pygtex)
+\openout7 = `LaTeX_tutorial.pyg'.
+
+runsystem(pygmentize -l latex -f latex -P commandprefix=PYG -F tokenmerge -o _m
+inted-LaTeX_tutorial/B456B558FE2949F11E00D081DCE20DEC762556F0E7C29D55187A847219
+DF9D00.pygtex LaTeX_tutorial.pyg)...executed.
+
+
 (./_minted-LaTeX_tutorial/B456B558FE2949F11E00D081DCE20DEC762556F0E7C29D55187A8
 47219DF9D00.pygtex)
 \openout7 = `LaTeX_tutorial.pyg'.
 
 
-(./_minted-LaTeX_tutorial/13CD3C0F0751D29E4776C3D6F2724678762556F0E7C29D55187A8
+(./_minted-LaTeX_tutorial/5F9EA2919E7C85031F0F925BD45CBE64762556F0E7C29D55187A8
 47219DF9D00.pygtex) [24
 
 ] (./LaTeX_tutorial.bbl) [25
@@ -1467,11 +1489,14 @@ Package pdftex.def Info: Requested size: 61.45703pt x 40.89598pt on input line
 \tf@snm=\write11
 \openout11 = `LaTeX_tutorial.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 492.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 492.
+runsystem(rm _minted-LaTeX_tutorial/950F194E7BF34FAE122ED831459F3709762556F0E7C
+29D55187A847219DF9D00.pygtex)...executed.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 498.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 498.
  (./LaTeX_tutorial.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 492.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 492.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 498.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 498.
 Package rerunfilecheck Info: File `LaTeX_tutorial.out' has not changed.
 (rerunfilecheck)             Checksum: 66B6E7064FAFED3F027A3E748A38F8A8;309.
 
@@ -1482,11 +1507,11 @@ runsystem(rm LaTeX_tutorial.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 21270 strings out of 492990
- 425568 string characters out of 6132635
- 550256 words of memory out of 5000000
- 24086 multiletter control sequences out of 15000+600000
- 17563 words of font info for 65 fonts, out of 8000000 for 9000
+ 21273 strings out of 492990
+ 426113 string characters out of 6132635
+ 550501 words of memory out of 5000000
+ 24084 multiletter control sequences out of 15000+600000
+ 17206 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,61p,834b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1498,17 +1523,16 @@ sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
 local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
 local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/lo
-cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on LaTeX_tutorial.pdf (25 pages, 732914 bytes).
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on LaTeX_tutorial.pdf (25 pages, 725739 bytes).
 PDF statistics:
- 477 PDF objects out of 1000 (max. 8388607)
- 404 compressed objects within 5 object streams
+ 474 PDF objects out of 1000 (max. 8388607)
+ 402 compressed objects within 5 object streams
  60 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
