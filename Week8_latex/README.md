@@ -11,7 +11,7 @@
 
 #### Sofia: Overleaf
 
-Link coming soon!
+Slides are posted above; no associated assignment.
 
 #### Ryan: LaTeX
 
