@@ -5,7 +5,7 @@
 - Discussion of Final Reserach Project, Howard
 
 ### Tutorial: Using SAO/NASA ADS
-Instructor reviews how to use NASA ADS over screen share.
+Instructor reviews how to use NASA ADS (https://ui.adsabs.harvard.edu/) over screen share.
 
 ### Figure Astethetics
 - 
