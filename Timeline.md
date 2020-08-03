@@ -114,7 +114,7 @@ Arnold (2005), https://www.pnas.org/content/116/20/9723, Also available in Googl
 * Paper Discussion.
 
 ### Paper of the week:
-* Imaging paper, TBD.
+* Imagine Extrasolar Giant Planets by Brendan Boweler: https://iopscience.iop.org/article/10.1088/1538-3873/128/968/102001/pdf
 
 
 ## Week 9. Group Leader: Isabel, Isaac, Aldo. (week of August 3rd) 
@@ -131,10 +131,6 @@ None
 ## Other:
 
 Papers:
-"Imaging Extrasolar Giant Planets"
-https://arxiv.org/pdf/1605.02731.pdf
 
 Microlensing:
 Seager (in google drive).
-
-
