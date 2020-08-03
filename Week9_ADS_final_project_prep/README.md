@@ -1,10 +1,14 @@
 # Agenda
-- ADS Review
-- Discussion of Bowler paper
-- Discussion of Final Reserach Project
+- ADS Review, Isabel
+- Figure Asthetics, Isaac
+- Discussion of Bowler paper, Aldo
+- Discussion of Final Reserach Project, Howard
 
 ### Tutorial: Using SAO/NASA ADS
 Instructor reviews how to use NASA ADS over screen share.
+
+### Figure Astethetics
+- 
 
 ### Discussion of Bowler paper
 - What is a protoplanetary disk? What is the connection between these disks and imaged planets?
