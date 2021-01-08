@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{k}{\PYGZbs{}tiny}, \PYG{k}{\PYGZbs{}scriptsize}, \PYG{k}{\PYGZbs{}footnotesize}, \PYG{k}{\PYGZbs{}small},
+	\PYG{k}{\PYGZbs{}normalsize}, \PYG{k}{\PYGZbs{}large}, \PYG{k}{\PYGZbs{}Large}, \PYG{k}{\PYGZbs{}LARGE}, \PYG{k}{\PYGZbs{}huge}, \PYG{k}{\PYGZbs{}Huge}
+\end{Verbatim}

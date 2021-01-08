@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{k}{\PYGZbs{}texttt}\PYG{n+nb}{\PYGZob{}}text\PYG{n+nb}{\PYGZcb{}}, \PYG{k}{\PYGZbs{}textbf}\PYG{n+nb}{\PYGZob{}}text\PYG{n+nb}{\PYGZcb{}}, \PYG{k}{\PYGZbs{}textit}\PYG{n+nb}{\PYGZob{}}text\PYG{n+nb}{\PYGZcb{}}
+	\PYG{k}{\PYGZbs{}emph}\PYG{n+nb}{\PYGZob{}}text\PYG{n+nb}{\PYGZcb{}}, \PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}color}\PYG{n+nb}{\PYGZob{}}color\PYG{n+nb}{\PYGZcb{}}text\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

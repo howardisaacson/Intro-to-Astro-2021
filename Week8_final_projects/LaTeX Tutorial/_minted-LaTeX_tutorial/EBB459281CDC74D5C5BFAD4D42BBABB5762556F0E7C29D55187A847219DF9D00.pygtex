@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+Partl\PYGZti{}\PYG{k}{\PYGZbs{}cite}\PYG{n+nb}{\PYGZob{}}pa\PYG{n+nb}{\PYGZcb{}} has
+proposed that \PYG{k}{\PYGZbs{}ldots}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}thebibliography\PYG{n+nb}{\PYGZcb{}\PYGZob{}}99\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}bibitem}\PYG{n+nb}{\PYGZob{}}pa\PYG{n+nb}{\PYGZcb{}} H.\PYGZti{}Partl:
+\PYG{k}{\PYGZbs{}emph}\PYG{n+nb}{\PYGZob{}}German \PYG{k}{\PYGZbs{}TeX}\PYG{n+nb}{\PYGZcb{}},
+TUGboat Volume\PYGZti{}9, Issue\PYGZti{}1 (1988)
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}thebibliography\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

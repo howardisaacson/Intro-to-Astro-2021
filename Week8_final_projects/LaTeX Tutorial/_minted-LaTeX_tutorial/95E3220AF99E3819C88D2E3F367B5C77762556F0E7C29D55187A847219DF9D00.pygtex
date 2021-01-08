@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+The equation of motion
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}equation\PYG{n+nb}{\PYGZcb{}}
+m \PYG{k}{\PYGZbs{}ddot}\PYG{n+nb}{\PYGZob{}}x\PYG{n+nb}{\PYGZcb{}} + kx = 0
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}equation\PYG{n+nb}{\PYGZcb{}}
+describes a harmonic...
+\end{Verbatim}

@@ -1,0 +1,107 @@
+%%% Preamble
+\documentclass[paper=letterpaper, fontsize=12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{float}
+\usepackage[font=small,labelfont=bf]{caption}
+%\usepackage{natbib}
+
+\usepackage[english]{babel} % English language/hyphenation
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{hyperref}
+\usepackage{url}
+
+% Math packages
+\usepackage{physics} % physics notation/commands
+\usepackage{amsmath,amsfonts,amsthm,amssymb} %math,fonts,theorems,symbols
+\usepackage{gensymb}
+\usepackage[pdftex]{graphicx}	
+\usepackage{tikz}
+
+%%% Custom sectioning
+%\usepackage{sectsty}
+%\allsectionsfont{\centering \normalfont\scshape}
+
+%%% Custom headers/footers (fancyhdr package)
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+%\fancyhead{}									% No page header
+\fancyhead[L]{\leftmark}
+\fancyhead[R]{\rightmark}
+\fancyfoot[L]{}									% Empty 
+\fancyfoot[C]{}									% Empty
+\fancyfoot[R]{\thepage}							% Pagenumbering
+\renewcommand{\headrulewidth}{1pt}			% Remove header underlines
+\renewcommand{\footrulewidth}{0pt}				% Remove footer underlines
+\setlength{\headheight}{13.6pt}
+\usepackage{color}
+
+
+%%% Equation and float numbering
+\numberwithin{equation}{section}		% Equationnumbering: section.eq#
+\numberwithin{figure}{section}			% Figurenumbering: section.fig#
+\numberwithin{table}{section}			% Tablenumbering: section.tab#
+
+
+%%% Maketitle metadata
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} 	% Horizontal rule
+
+\title{
+		%\vspace{-1in} 	
+		\usefont{OT1}{bch}{b}{n}
+		\normalfont \normalsize \textsc{PHY XXX Final Project} \\ [25pt]
+		\horrule{0.5pt} \\[0.4cm]
+		\huge Title Of Project \\
+		\horrule{2pt} \\[0.5cm]
+}
+\author{
+%	\normalfont 				\normalsize
+        Ryan Rubenzahl	\\		% \normalsize
+%        May 6, 2016
+        \today
+}
+\date{}
+
+
+%%% Begin document
+\begin{document}
+\maketitle
+
+\abstract \normalsize
+Lorem ipsum dolor sit amet, mattis fermentum eget augue, ut metus gravida, tellus eget ipsum quis porttitor id, parturient sagittis fringilla amet eu. Nibh qui pretium purus, rutrum a. Inceptos ad felis turpis suscipit. Nunc lacus amet massa rutrum leo, phasellus ac feugiat nunc wisi sed, id sodales varius sem, mollis etiam inceptos, lobortis ut in nec blandit.
+
+\lhead{} \rhead{}
+\tableofcontents
+
+\newpage \normalsize
+\lhead{\leftmark} \rhead{\rightmark}
+
+\section{Introduction}
+
+Lorem ipsum dolor sit amet, mattis fermentum eget augue, ut metus gravida, tellus eget ipsum quis porttitor id, parturient sagittis fringilla amet eu. Nibh qui pretium purus, rutrum a. Inceptos ad felis turpis suscipit. Nunc lacus amet massa rutrum leo, phasellus ac feugiat nunc wisi sed, id sodales varius sem, mollis etiam inceptos, lobortis ut in nec blandit. Sodales odio nullam, tristique metus nibh tincidunt, inceptos eros suscipit cras sit pharetra pharetra, luctus ac mi dignissim curabitur semper nisl. Quisque blandit eleifend eget quam tortor, non lorem maecenas sed eu malesuada interdum, elit enim lorem sed amet eros orci. Dictum sit a lectus fusce. Aperiam non, nullam metus vestibulum massa, a vel sit nec, donec wisi torquent nunc. Phasellus vivamus sit, amet dictum nibh nulla justo et, sem id id. Sed orci leo erat qui euismod, non euismod maecenas aliquet elit turpis.
+
+
+
+\section{Section}
+
+
+
+\section{Conclusion}
+
+
+
+\begin{thebibliography}{99}
+
+\bibitem{einstein15}
+ 	\href{http://www.gsjournal.net/old/eeuro/vankov.pdf}{Einstein, A. 1915. \emph{Explanation of the
+	Perihelion Motion of Mercury from General Relativity Theory}. Koniglich Preuﬂische Akademie der Wissenschaften (Berlin). Sitzungsberichte: 831-839}
+	
+\bibitem{oppenheimer39}
+	\href{http://journals.aps.org/pr/abstract/10.1103/PhysRev.55.374}{Oppenheimer, J. R. and Volkoff, G. M. 1939. \emph{On Massive Neutron Cores}. Phys. Rev. 55, 374}
+	
+\bibitem{ligo11}
+	\href{https://arxiv.org/pdf/1102.3781v1.pdf}{Abadie, J, and Abbott, B.P. et al. (LIGO Scientific Collaboration and Virgo 	Collaboration). 2011. \emph{Search for gravitational waves from binary black hole inspiral, merger and ringdown}.  		arXiv:1102.3781}
+
+\end{thebibliography}
+
+%%% End document
+\end{document}

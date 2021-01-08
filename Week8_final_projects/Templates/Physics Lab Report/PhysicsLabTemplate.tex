@@ -1,0 +1,84 @@
+\documentclass[11pt, oneside]{article}   	% <-- Could change the font size up here
+\usepackage{geometry}                			% Packages and things to be imported that may be used
+\geometry{letterpaper}                   			% Later on in tables, figures, etc.
+\usepackage{graphicx}				
+
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage{array}
+
+
+
+\title{Physics Lab Template}
+\author{\underline{Your Name}, Partner Name}
+\date{Tuesday, February 9th, 2015}					
+
+\begin{document} % Starts the Document 
+\maketitle % Makes the Title
+
+
+\abstract % Latex has its own abstract heading!
+Abstract section where you discuss what you found, if you wish to type a math equation inside text, use dollar signs on either side of your equation: $g = 9.81m/s^2$
+
+
+
+
+\section{Theory}
+Theory section
+
+\subsection{Part 1}
+Some specific part of the theory behind the experiment
+\newline % Go to the next line
+% The next commented section gives the layout to make a figure at the location in the document where it is typed
+
+% \begin{figure}[H]
+%    \centering
+%    \includegraphics[scale=0.3]{Folder/diagramname.jpg}
+%    \caption{This is what figure 1 is}
+%    \label{Figure 1}
+% \end{figure}
+\par Might use equations to to describe something, like % \par does paragraph indentation
+\begin{equation} \vec{L} = I \vec{\omega} \end{equation}
+
+
+\section{Experiment}
+Experiment section
+
+
+
+\section{Data Analysis}
+Might want a table to present data:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|c|}
+	\hline
+	Trial & 1 & 2  \\ \hline
+	$\theta_1$ & 1 & 2 \\ \hline
+	$\theta_2$ & 1 & 2 \\ \hline
+	\end{tabular}
+	\caption{caption about table 1}
+	\label{Table 1}
+\end{table}
+
+Of course, error propagation will be in here:
+\begin{equation}  \sigma = \sqrt{\left(\frac{\partial}{\partial x}\right)^2\sigma _x^2+\left(\frac{\partial}{\partial y}\right)^2\sigma _y^2 + \left(\frac{\partial}{\partial z}\right)^2\sigma _z^2...} \end{equation}
+
+Maybe some weighted mean:
+\begin{equation} w_i = \frac{1}{\sigma_i^2}  \end{equation}
+\begin{equation} x_{mean} = \frac{\sum\limits_{i=1}^N{w_ix_i}}{\sum\limits_{i=1}^N{w_i}} \end{equation}
+\begin{equation} \sigma_{mean} = \frac{1}{\sqrt{\sum\limits_{i=1}^N{w_i}}} \end{equation}
+
+
+\section{Conclusion}
+Summary
+
+
+
+\section{Remarks}
+remarks
+
+
+
+
+\end{document}  % Ends the masterpiece
