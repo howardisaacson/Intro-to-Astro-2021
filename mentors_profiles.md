@@ -1,10 +1,17 @@
-Sarah Blunt
+Summer 2020 Mentors:
 
-Isabel Angelo
+- Sarah Blunt
 
-Tim Sanders
+- Isabel Angelo
 
-Ryan Rubenzahl
+- Tim Sanders
 
-Joey Murphy
+- Ryan Rubenzahl
 
+- Joey Murphy
+
+- Aldo Panfichi
+
+- Sofia Sheikh
+
+- Isaac Malsky
