@@ -1,11 +1,12 @@
-# Intro-to-Astro-2020
+# Intro-to-Astro-2021
 An introduction to astronomy research for aspiring students/researchers/enthusiasts
 
 [(Formerly: Introduction-to-Astronomy-Research)](https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018) and 
 [Intro2Astro2019](https://github.com/howardisaacson/Intro-to-Astro-2019)
+[Intro2Astro2020](https://github.com/howardisaacson/Intro-to-Astro-2020)
 
 ## Announcement: 
-Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undegraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center (closed for 2020)
+Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undegraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center (open for 2021).
 
 ## Welcome
  Welcome to the essential collection of information that you need to begin your journey into Research Astronomy. The following tutorials, readings, projects and tips are designed to for early college students, advanced high school students, and students with nontraditional career paths to gain the skills they need in order to gain entry into a more formal research project. With exposure and eventual mastering of the skills contained in this repository, students will be better prepared to begin research project either during the semester or over the summer.
