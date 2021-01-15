@@ -1,4 +1,4 @@
-# Timeline for Summer 2021.
+# Timeline for Summer 2021.  June 14th - August 6th
 
 ## Week 1. Group Leaders: TBD (week of June 14th)
 * GitHub: Version Control, git-clone vs downloading repositories.
