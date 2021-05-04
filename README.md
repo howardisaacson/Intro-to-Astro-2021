@@ -5,7 +5,7 @@ An introduction to astronomy research for aspiring students/researchers/enthusia
 [Intro2Astro2019](https://github.com/howardisaacson/Intro-to-Astro-2019) and
 [Intro2Astro2020](https://github.com/howardisaacson/Intro-to-Astro-2020)
 
-If you are interested in participating in Intro-to-Astro in the summer of 2021, as either an undergraduate student or graduate student mentor [please click here](https://forms.gle/zkEAW7wxg3rd8sNj8) to fill out your contact information.
+If you are interested in participating in Intro-to-Astro in the summer of 2021, as either an undergraduate student or graduate student mentor [please click here](https://forms.gle/zkEAW7wxg3rd8sNj8) to fill out your contact information. There is no cost to participate.
 
 ## Announcement: 
 Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undegraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center (open for 2021).
