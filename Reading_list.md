@@ -1,6 +1,18 @@
 ## Who needs a reading list? You do!:
 Astronomers conduct much of their reading online, but a good collection of books is always nice to have. 
 
+
+Readings by assigned week :
+* Week1: Explanets Review, by Lee
+* week2: "Life Outside the Solar System" by Su-Shu Huang 
+* Week3: An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014) 
+* Week4: Planet Size Distribution - Zeng (2019) 
+* Week5: Whistling Vivaldi - Imposter Syndrome
+* Week6: Imaging paper?
+* Week7: Transit Lightcurves of Artificial Objects - Arnold (2005)
+* Week8: No paper assigned
+
+
 * Astronomy
 
   * Exoplanet Atmospheres (Seager)		
@@ -63,14 +75,3 @@ Astronomers conduct much of their reading online, but a good collection of books
 * Resources:
    * Exoplanet data analysis in python: https://exoplanet.dfm.io/en/latest/
    
-Readings by assigned week :
-* Week1: Explanets Review, by Lee
-* week2: "Life Outside the Solar System" by Su-Shu Huang 
-* Week3: An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014) 
-* Week4: Planet Size Distribution - Zeng (2019) 
-* Week5: Whistling Vivaldi - Imposter Syndrome
-* Week6: No paper assigned this week.
-* Week7: Transit Lightcurves of Artificial Objects - Arnold (2005)
-* Week8: Imaging paper - TBD   
-* Week9:  No group paper
-* Week10: No group paper   
