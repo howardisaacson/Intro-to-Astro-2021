@@ -1,6 +1,6 @@
-**First Meeting. 8 June 2020**
+**First Meeting. 14 June 2021**
 
-**(June 8th, 2020: 5:00pm Pacific Daylight Time (UT-7). Connection Details will be sent via email.**
+**(June 14th, 2021: 5:00pm Pacific Daylight Time (UT-7). Connection Details will be sent via email.**
 
 ## Agenda:
 * Introductions
