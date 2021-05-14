@@ -1,7 +1,7 @@
-## Meeting Time: 5:00pm PDT, Monday June 15th 2019. 
+## Meeting Time: 5:00pm PDT, Monday June 14th 2021. 
 Contact Details will be sent via email.
 
-Instructors: Aldo and Isaac
+Instructors: TBD
 
 #### Agenda: (Because a meeting without an agenda is no meeting at all).
 
