@@ -5,7 +5,7 @@ An free introduction to astronomy research for aspiring students/researchers/ent
 [Intro2Astro2019](https://github.com/howardisaacson/Intro-to-Astro-2019) and
 [Intro2Astro2020](https://github.com/howardisaacson/Intro-to-Astro-2020)
 
-## Enrollment for the course is now closed. This repo is still in development for the 2021 summer course
+#### Enrollment for the course is now closed. This repo is still in development for the 2021 summer course
 
 ## Announcement: 
 Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undegraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center (open for 2021).
