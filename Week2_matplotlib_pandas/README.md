@@ -1,4 +1,4 @@
-## Meeting Time: 5:00pm PDT, Monday June 14th 2021. 
+## Meeting Time: 5:00pm PDT, Monday June 21st 2021. 
 Contact Details will be sent via email.
 
 Instructors: TBD
