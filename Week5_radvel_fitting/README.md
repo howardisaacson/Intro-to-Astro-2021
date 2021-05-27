@@ -1,7 +1,7 @@
-## Meeting Time: 5:00pm PDT (UT-7), Monday July 6th, 2020.
+## Meeting Time: 5:00pm PDT (UT-7), Monday July 12th, 2021.
 Connection details will be sent via email
 
-Instructors: Joey and Ryan
+Instructors: TBD
 
 ### Agenda:
 * Intro
