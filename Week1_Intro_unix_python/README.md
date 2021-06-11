@@ -42,8 +42,18 @@ http://swcarpentry.github.io/shell-novice/
 Deliverable:
   In your individual folder, list all of the unix commands that you learned, with a brief description of each.
 
+### Assignment 2) Complete the Git tutorial on the Software Carpentry website:
 
-### Assignment 2) Complete the Python tutorial on the Software Carpentry website:
+Git is a powerful and ubiquitous versioning tool for software development, 
+though all of the vocabulary and mechanics can take some getting used to. Work through this Git tutorial to 
+reinforce some of the features we discussed this week and learn about concepts we didn't have a chance to cover.
+
+https://swcarpentry.github.io/git-novice/
+
+Deliverables:
+  Create a GitHub account if you don't already have one! You can sign up at https://github.com.
+
+### Assignment 3) Complete the Python tutorial on the Software Carpentry website:
 
 If you are not yet familiar with the basics of Python, begin on the following website, and begin your
 journey in the amazing, scary, and powerful world of python. This website allows you learn the basics
@@ -56,7 +66,7 @@ http://swcarpentry.github.io/python-novice-inflammation/
 Deliverable:
    Save each of the plots that you create with the tutorial and save them in your google drive folder.
    
-### Paper of the week: Assignment 3) Read this exoplanet review paper:
+### Paper of the week: Assignment 4) Read this exoplanet review paper:
 
 * Exoplanets Review by Lee (2018). (link in Google Drive)
 * Read the paper, and save a list of questions you may have.
