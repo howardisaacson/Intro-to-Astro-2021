@@ -19,7 +19,7 @@
 
 
 ## Assignment of students to mentors
-* On the google doc, check your name to mark your attendnce. Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 9 for final projects. Until then please attend a mentor's office hour to chat with a mentor.
+* On the google doc, check your name to mark your attendnce. Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects.
 
 ## Assignments for Week 1
 
@@ -50,7 +50,7 @@ reinforce some of the features we discussed this week and learn about concepts w
 
 https://swcarpentry.github.io/git-novice/
 
-Deliverables:
+Deliverable:
   Create a GitHub account if you don't already have one! You can sign up at https://github.com.
 
 ### Assignment 3) Complete the Python tutorial on the Software Carpentry website:
