@@ -6,7 +6,6 @@
 * Introductions
 * Motivation
 * Overview of the course (discuss Github)
-* Attendance (share link to Google Drive folder)
 * Overleaf.com, and kaggle.com will be discussed in later weeks.
 
 ## Announcement about Piazza:
@@ -19,12 +18,12 @@
 
 
 ## Assignment of students to mentors
-* On the google doc, check your name to mark your attendnce. Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects.
+* Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects.
 
 ## Assignments for Week 1
 
 ### If you have not already:
- * Be sure to obtain all of the appropriate accounts listed on Timeline page. Update "Attendance" Google Doc.
+ * Be sure to obtain all of the appropriate accounts listed on Timeline page.
  * Ensure that you have a working version of Python installed on your computer.
    * [This link](https://carpentries.github.io/workshop-template/#python) has a section for downloading the anaconda version of Python for Mac, Linux or Windows
  * Finish writing your goals for this program if you did not finish during the session.
