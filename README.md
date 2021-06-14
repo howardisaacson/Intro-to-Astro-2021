@@ -8,7 +8,7 @@ An free introduction to astronomy research for aspiring students/researchers/ent
 #### Enrollment for the course is now closed. This repo is still in development for the 2021 summer course
 
 ## Announcement: 
-Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undegraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center (open for 2021).
+Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undegraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center.
 
 ## Welcome
  Welcome to the essential collection of information that you need to begin your journey into Research Astronomy. The following tutorials, readings, projects and tips are designed to for early college students, advanced high school students, and students with nontraditional career paths to gain the skills they need in order to gain entry into a more formal research project. With exposure and eventual mastering of the skills contained in this repository, students will be better prepared to begin research project either during the semester or over the summer.
