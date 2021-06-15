@@ -68,7 +68,7 @@ Deliverable:
    
 ### Paper of the week: Assignment 4) Read this exoplanet review paper:
 
-* Exoplanets Review by Lee (2018). (link in Google Drive)
+* Exoplanets Review by Lee (2018). (https://arxiv.org/abs/1804.08907 link also in Google Drive)
 * Read the paper, and save a list of questions you may have.
 * Read the paper again a few days later, and revisit your list of questions
 * Post at least one question on Piazza, and respond to at least one of your classmates' questions.
