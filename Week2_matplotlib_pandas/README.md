@@ -31,7 +31,7 @@ Instructors: TBD
 ## Assignments for this Week:
 
 ### I Paper of the week:
-["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing) by Su-Shu Huang.
+Paper on a potentially habitable planet from TESS https://arxiv.org/abs/2001.00952
 
 Refer to our [paper reading guide](https://github.com/howardisaacson/Intro-to-Astro-2020/blob/master/Week1_Intro_unix_python/how_to_read_scientific_papers.md) while reading this paper!
 
