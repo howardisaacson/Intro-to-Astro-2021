@@ -1,7 +1,7 @@
-## Meeting Time: 5:00pm PDT (UT-7), Monday June 29th, 2020.
+## Meeting Time: 5:00pm PDT (UT-7), Tuesday July 6th, 2021. Note the unusual date because Independence Day Holiday.
 Connection details will be sent via email
 
-Instructors: Tim, Joey, and Isabel
+Instructors: Fei, Priya, Anamitra
 
 ### Agenda:
 * Intro
@@ -9,14 +9,20 @@ Instructors: Tim, Joey, and Isabel
 * Chi-squared tutorial
 * Paper discussion
 
-### Howard: Intro
-- Check-in, and a few words about TESS Spacecraft.
+### 1: Intro
+- Check-in. How did the tutorials go?
+- What should the instructors do differently this week?
 
-### Tutorials:
-1. Tim: Tutorial on downloading and plotting TESS 2-minute lightcurves
-2. Joey: Tutorial on chi-squared minimization
+### 2: TESS Tutorial:
+-Downloading and plotting TESS 2-minute lightcurves
+-Walk through of the TOI list.
 
-### Paper discussion
+### 3. Tutorial on Overleaf:
+-Creating and saving a document.
+-Choice of template
+-Equations, Figures, Tables
+
+### 4.Paper discussion
 Isabel: [Quintana et al. 2014](https://drive.google.com/file/d/14CJ_VsCKg09JYu_hfp2icFW2ZIIJ_c4o/view?usp=sharing)
 
 ### Paper of the Week:
@@ -25,5 +31,5 @@ Isabel: [Quintana et al. 2014](https://drive.google.com/file/d/14CJ_VsCKg09JYu_h
 ### Assignments for this Week
 
 1. Complete the TESS tutorial. Which TESS planet did you choose to rediscover and why?
-2. Complete the questions in the chi_squared_assignment.ipynb notebook.
+2. Complete the tutorials on Overleaf.
 3. Look through this [Dropbox](https://www.dropbox.com/sh/jkslarj06iuvq2e/AAB5PENEy83B5rHihd2x9nEQa?dl=0) full of readings about race, gender, and other identities & the scientific community. Spend an hour (time yourself) reading whatever interests you. Write a two paragraph reflection about what you read.

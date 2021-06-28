@@ -6,11 +6,9 @@ Connection Details will be sent via email.
 * Introductions
 * Motivation
 * Overview of the course (discuss Github)
-* Attendance (share link to Google Drive folder)
-* Overleaf.com, and kaggle.com will be discussed in later weeks
-* Unix and Git Tutorial
-* Python and Jupyter Notebooks Tutorial
-* ADS and How to Read Scientific Papers Tutorial.
+
+* Overleaf.com, and kaggle.com will be discussed in later weeks.
+
 
 ## Announcement about Piazza:
 * [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
@@ -22,12 +20,14 @@ Connection Details will be sent via email.
 
 
 ## Assignment of students to mentors
-* On the google doc, check your name to mark your attendnce. Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects. Until then please use a mentor's office hour to chat with them.
+
+* Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects.
+
 
 ## Assignments for Week 1
 
 ### If you have not already:
- * Be sure to obtain all of the appropriate accounts listed on Timeline page. Update "Attendance" Google Doc.
+ * Be sure to obtain all of the appropriate accounts listed on Timeline page.
  * Ensure that you have a working version of Python installed on your computer.
    * [This link](https://carpentries.github.io/workshop-template/#python) has a section for downloading the anaconda version of Python for Mac, Linux or Windows
  * Finish writing your goals for this program if you did not finish during the session.
@@ -53,7 +53,7 @@ reinforce some of the features we discussed this week and learn about concepts w
 
 https://swcarpentry.github.io/git-novice/
 
-Deliverables:
+Deliverable:
   Create a GitHub account if you don't already have one! You can sign up at https://github.com.
 
 ### Assignment 3) Complete the Python tutorial on the Software Carpentry website:
