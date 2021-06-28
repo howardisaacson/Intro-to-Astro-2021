@@ -1,12 +1,14 @@
-**First Meeting. 14 June 2021**
+## First Meeting: June 14th, 2021: 5:00pm Pacific Daylight Time (UT-7). 
 
-**(June 14th, 2021: 5:00pm Pacific Daylight Time (UT-7). Connection Details will be sent via email.**
+Connection Details will be sent via email.
 
 ## Agenda:
 * Introductions
 * Motivation
 * Overview of the course (discuss Github)
+
 * Overleaf.com, and kaggle.com will be discussed in later weeks.
+
 
 ## Announcement about Piazza:
 * [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
@@ -18,7 +20,9 @@
 
 
 ## Assignment of students to mentors
+
 * Mentors will be assigned in Week 6 for review of your new websites and CVs and in week 8 for final projects.
+
 
 ## Assignments for Week 1
 
@@ -74,22 +78,13 @@ Deliverable:
 
 
 
-### Bonus Round ( Intended for everyone. see how far you can get)
+### Bonus Round (Intended for everyone. see how far you can get)
 Command line Ninjas begin their training with the most simple commands they use everyday and eventually obtain 
 more and more skills. Follow the link below and see how far you get in the command-line-challenge. Be sure to
 keep track of you progress so that you can report back. 
 
 https://cmdchallenge.com
 
-### Optional Assignment) Complete the Data Carpentry workshop on Git and Version Control
-In modern astronomy, we have learned from the computer science community that we should back up our code. OFTEN.
-Git and the most commonly used web-based git repository github.com are used by thousands of collaborations to
-store their code and collaborate in open source projects. Git can initially be overwhelming, but with practice
-it will become one of your mostly commonly used tools in astronomy.
-
-http://swcarpentry.github.io/git-novice/ (optional)
-
 ## Writing Prompt (5-7 mins):
 * What are your goals for this course?
 * What topics in astronomy interest you? e.g. astrobiology, exoplanets, dark energy, black holes, space launches, mars exploration, the rings of saturn, Earth-like planets, etc.
-
