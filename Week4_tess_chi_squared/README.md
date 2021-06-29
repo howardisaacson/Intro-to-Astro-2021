@@ -6,21 +6,22 @@ Instructors: Fei, Priya, Anamitra
 ### Agenda:
 * Intro
 * TESS tutorial
-* Chi-squared tutorial
+* Overleaf tutorial
 * Paper discussion
 
 ### 1: Intro
-- Check-in. How did the tutorials go?
-- What should the instructors do differently this week?
+* Check-in. How did the tutorials go?
+* What should the instructors do differently this week?
 
 ### 2: TESS Tutorial:
--Downloading and plotting TESS 2-minute lightcurves
--Walk through of the TOI list.
+* Brief Intro to the TESS mission
+* Downloading and plotting TESS's first planet
+* Walkthrough of the TOI list.
 
 ### 3. Tutorial on Overleaf:
--Creating and saving a document.
--Choice of template
--Equations, Figures, Tables
+* Creating and saving a document.
+* Choice of template
+* Equations, Figures, Tables
 
 
 ### Paper of the Week:
