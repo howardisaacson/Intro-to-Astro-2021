@@ -12,12 +12,6 @@ Instructors: Emilie, Chetan, Isaac
 
 ### Intro
 
-### Writing Exercise:
-In your online notebooks (create a Google Doc for yourself in your personal [Google Drive folder](https://drive.google.com/drive/folders/1OvyqtCVJ9pP1dbwtozxFjz5VudCTxZdq?usp=sharing) for this class, if you don't already have one), please spend 5 minutes responding to the following prompt:
-
-*For this week you were asked to read an article from 1960: ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing) by Su-Shu Huang. In the paper, we learned about the relationship between the spectral type of a star and its ability to host life-bearing planets. The Sun is a G-type star which will live on the main sequence for about 10 billion years. M-type stars are much less massive and will live on the main sequence for 10 times as long. What would a civilization on a planet around an M-type star look like if it had 100 billion years to evolve?*
-
-
 Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to_astro/summer2020/astr101/home) to continue the discussion!
 
 ### Tutorials
