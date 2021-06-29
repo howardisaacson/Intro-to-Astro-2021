@@ -22,8 +22,6 @@ Instructors: Fei, Priya, Anamitra
 -Choice of template
 -Equations, Figures, Tables
 
-### 4.Paper discussion
-Isabel: [Quintana et al. 2014](https://drive.google.com/file/d/14CJ_VsCKg09JYu_hfp2icFW2ZIIJ_c4o/view?usp=sharing)
 
 ### Paper of the Week:
 [Growth model interpretation of planet size distribution](https://drive.google.com/file/d/1dSFWhcip5TK61KJ6jm-whv3R7cEWgP57/view?usp=sharing) (Zeng et al. 2019)
