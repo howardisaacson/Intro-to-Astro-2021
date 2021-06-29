@@ -15,7 +15,7 @@ Class discussion on The Role of Identity in Astronomy: Article: Whistling Vivald
 # Assignments:
 1. Look up the personal websites (NOT university faculty page!) of at least five different astronomers. Explore them in detail. Write an entry in your notebook describing what you like and what you don't like. Remember, a website is often times many people's first impression of you, what do you want them to know? Remember to consider content as well as aesthetics. Use this in planning a design for your personal website.
 
-2. Read this article on building a website: https://researcheracademy.elsevier.com/sites/default/files/2017-11/ECR_Building_personal_website_210912.pdf.
+2. Read this article on building a website: https://researcheracademy.elsevier.com/uploads/2017-11/ECR_Building_personal_website_210912.pdf
 
 3. Create a website using the platform of your choice. You may use a template or create a site from scratch.
 
