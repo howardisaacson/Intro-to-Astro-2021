@@ -5,8 +5,10 @@ README:
 - Intro, Check-in.
 
 ### Tutorial:
-1. Isaac: Creating a website
-2. Jack: Creating a Curriculum Vitae (CV).
+1. Jack: Creating a Curriculum Vitae (CV)
+2. Fei: Creating a website
+3. Alex: Imposter Syndrome
+4. Issac: Mentor Profile
 
 ### Imposter Syndrome :
 Discussion about something that affects most, if not all researchers, imposter syndrome.
