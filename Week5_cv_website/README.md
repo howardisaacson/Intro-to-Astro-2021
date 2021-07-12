@@ -8,8 +8,13 @@ README:
 1. Isaac: Creating a website
 2. Jack: Creating a Curriculum Vitae (CV).
 
-### Recap of Whistling Vivaldi :
-Class discussion on The Role of Identity in Astronomy: Article: Whistling Vivaldi (link in google drive).
+### Imposter Syndrome :
+Discussion about something that affects most, if not all researchers, imposter syndrome.
+
+Useful Articles:
+https://asm.org/Articles/2020/August/Imposter-Syndrome-The-Truth-About-Feeling-Like-a-F
+
+https://astrobites.org/2018/03/02/overcoming-the-imposter-syndrome/
 
 
 # Assignments:
