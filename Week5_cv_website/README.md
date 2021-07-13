@@ -46,7 +46,7 @@ https://rrubenza.github.io/ (Ryan Rubenzahl, grad student)
 
 *faculty websites:*
 
-https://hisaacson2.wixsite.com/website (Howard Isaacson, professional astronomer)
+https://exoplanets.caltech.edu/(Andrew Howard, Professor)
 
 http://w.astro.berkeley.edu/~dressing/ (Courtney Dressing, professor)
 
