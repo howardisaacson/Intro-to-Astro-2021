@@ -4,7 +4,8 @@
 - Check-in
 
 ### Special Guest: Vishal Gajjar of Breakthrough Listen
-
+* If you are intersted in the SETI tutorial from our 2020 course, [click here](https://github.com/UCBerkeleySETI/breakthrough)
+* For a complete collection of SETI videos from Breakthrough Listen, [click here] (https://www.youtube.com/user/BerkeleySETI/videos)
     
 
 # Assignments:
