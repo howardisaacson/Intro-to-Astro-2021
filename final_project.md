@@ -1,5 +1,5 @@
 # Intro to Astronomy Research: Final Project Assignment
-Written by Sarah Blunt
+Written by Sarah Blunt (Updated by Howard Isaacson)
 
 ## Motivation:
 Many undergraduate research internships do not have dedicated time for students to do literature reviews and come up with their own ideas. This project is an opportunity to do just that. We believe this project will compliment your future research experiences, and help to complete your understanding of the research process. 
@@ -32,13 +32,13 @@ Write a proposal convincing the reader that your idea should be funded based on 
 ## Timeline:
 You will spend the last two weeks of the course working on this project. 
 
-### Week 8:
+### Week 7:
 Select and read the 3 papers you will include in your report. You will meet virtually with an instructor twice this week to discuss your progress. Suggested meeting topics for this week:
   - Meeting 1: Choice of research topic & papers
       - Please select your 3 papers before this meeting
   -	Meeting 2: Developing your original idea
       - Please read your 3 papers before this meeting
-### Week 9:
+### Week 8:
 Outline and write your proposal. You will meet virtually with an instructor to discuss your progress once this week. Suggested meeting topics for this week:
   -	Meeting: Feedback on a draft of your proposal
       - Please write a draft of your proposal before this meeting
