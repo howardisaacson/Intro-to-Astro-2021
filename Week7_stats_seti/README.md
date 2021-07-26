@@ -3,19 +3,12 @@
 ### Howard: Intro
 - Check-in
 
-### Website/CV Presentations (no paper this week)
-    
-### Tutorials:
-1. Sofia: Looking for ETI - Radio SETI Tutorial*
-2. Howard: [Photon statistics tutorial](photon_stats_tutorial.ipynb)
+### Special Guest: Vishal Gajjar of Breakthrough Listen
 
-\* Note: If you want to re-run the SETI Example from lecture, you'll have to download the three non-Voyager datafiles from the [Google Drive](https://drive.google.com/drive/folders/1k5n4OggbtmiHB9Q7_bXzcsWLvFRFTpdn?usp=sharing).
+    
 
 # Assignments:
-1. Complete the Finding_Voyager tutorial
-2. Complete the Finding_ETI tutorial
-3. Complete the [Intro to Statistics Tutorial from Peter Norvig](https://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
-4. Complete the [Photon statistics tutorial](photon_stats_tutorial.ipynb)
-
-# Read the Arnold 2005 paper for discussion in week 8.
-https://iopscience.iop.org/article/10.1086/430437/pdf
+* Begin work on your final project.
+* By Wednesday: Have a 5 sentence description of your topic. Use Piazza to help narrow your idea. We can help if you post your description on piazza. We will help direct your idea into something manageable. 
+* By Friday: Have a full out line of your paper, including 3 references that you will include in your paper. You can use the ADS service we described early in early weeks of this course.
+* Sign up next week for a time to meet one-on-one with a mentor to receive feedback on your proposal, which should be 3-5 pages when finished. You will want to link it to your website as an example of your work.
