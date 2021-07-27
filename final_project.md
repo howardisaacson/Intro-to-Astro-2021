@@ -33,11 +33,8 @@ Write a proposal convincing the reader that your idea should be funded based on 
 You will spend the last two weeks of the course working on this project. 
 
 ### Week 7:
-Select and read the 3 papers you will include in your report. You will meet virtually with an instructor twice this week to discuss your progress. Suggested meeting topics for this week:
-  - Meeting 1: Choice of research topic & papers
-      - Please select your 3 papers before this meeting
-  -	Meeting 2: Developing your original idea
-      - Please read your 3 papers before this meeting
+Select and read the 3 papers you will include in your report. You can use piazza to discuss your ideas and receive advice about your project.
+
 ### Week 8:
 Outline and write your proposal. You will meet virtually with an instructor to discuss your progress once this week. Suggested meeting topics for this week:
   -	Meeting: Feedback on a draft of your proposal
